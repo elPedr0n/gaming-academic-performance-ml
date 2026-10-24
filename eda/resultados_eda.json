@@ -1,0 +1,479 @@
+{
+  "shape": [
+    8000,
+    17
+  ],
+  "duplicadas_X": 0,
+  "duplicadas_X_y": 0,
+  "faltantes": 0,
+  "classes": {
+    "A": 1375,
+    "B": 1690,
+    "C": 1804,
+    "D": 3131
+  },
+  "n_unicos": {
+    "age": 9,
+    "gaming_hours": 801,
+    "study_hours": 901,
+    "sleep_hours": 501,
+    "attendance": 3472,
+    "social_activity": 501,
+    "device_usage": 1202,
+    "reaction_time_ms": 5660,
+    "addiction_score": 1955,
+    "stress_level": 3,
+    "gender_Female": 2,
+    "gender_Male": 2,
+    "gender_Other": 2,
+    "gaming_genre_Casual": 2,
+    "gaming_genre_FPS": 2,
+    "gaming_genre_RPG": 2
+  },
+  "describe": {
+    "age": {
+      "count": 8000.0,
+      "mean": 19.984,
+      "std": 2.587,
+      "min": 16.0,
+      "25%": 18.0,
+      "50%": 20.0,
+      "75%": 22.0,
+      "max": 24.0,
+      "skew": -0.002,
+      "kurt": -1.233
+    },
+    "gaming_hours": {
+      "count": 8000.0,
+      "mean": 4.077,
+      "std": 2.297,
+      "min": 0.0,
+      "25%": 2.13,
+      "50%": 4.13,
+      "75%": 6.04,
+      "max": 8.0,
+      "skew": -0.066,
+      "kurt": -1.186
+    },
+    "study_hours": {
+      "count": 8000.0,
+      "mean": 5.449,
+      "std": 2.56,
+      "min": 1.0,
+      "25%": 3.24,
+      "50%": 5.46,
+      "75%": 7.64,
+      "max": 10.0,
+      "skew": 0.01,
+      "kurt": -1.189
+    },
+    "sleep_hours": {
+      "count": 8000.0,
+      "mean": 6.483,
+      "std": 1.432,
+      "min": 4.0,
+      "25%": 5.24,
+      "50%": 6.5,
+      "75%": 7.69,
+      "max": 9.0,
+      "skew": -0.0,
+      "kurt": -1.19
+    },
+    "attendance": {
+      "count": 8000.0,
+      "mean": 79.887,
+      "std": 11.58,
+      "min": 60.0,
+      "25%": 69.78,
+      "50%": 79.695,
+      "75%": 90.1,
+      "max": 100.0,
+      "skew": 0.021,
+      "kurt": -1.213
+    },
+    "social_activity": {
+      "count": 8000.0,
+      "mean": 2.508,
+      "std": 1.441,
+      "min": 0.0,
+      "25%": 1.288,
+      "50%": 2.5,
+      "75%": 3.76,
+      "max": 5.0,
+      "skew": -0.004,
+      "kurt": -1.198
+    },
+    "device_usage": {
+      "count": 8000.0,
+      "mean": 7.586,
+      "std": 2.71,
+      "min": 1.1,
+      "25%": 5.56,
+      "50%": 7.61,
+      "75%": 9.6,
+      "max": 13.95,
+      "skew": -0.011,
+      "kurt": -0.691
+    },
+    "reaction_time_ms": {
+      "count": 8000.0,
+      "mean": 271.106,
+      "std": 29.441,
+      "min": 183.26,
+      "25%": 247.16,
+      "50%": 270.475,
+      "75%": 294.69,
+      "max": 347.87,
+      "skew": 0.047,
+      "kurt": -0.922
+    },
+    "addiction_score": {
+      "count": 8000.0,
+      "mean": 9.922,
+      "std": 5.006,
+      "min": 0.0,
+      "25%": 5.92,
+      "50%": 10.005,
+      "75%": 13.86,
+      "max": 23.16,
+      "skew": -0.001,
+      "kurt": -0.846
+    },
+    "stress_level": {
+      "count": 8000.0,
+      "mean": 1.783,
+      "std": 0.65,
+      "min": 1.0,
+      "25%": 1.0,
+      "50%": 2.0,
+      "75%": 2.0,
+      "max": 3.0,
+      "skew": 0.248,
+      "kurt": -0.717
+    }
+  },
+  "freq_cat": {
+    "stress_level": {
+      "1": 2743,
+      "2": 4247,
+      "3": 1010
+    },
+    "gender_Female": 3803,
+    "gender_Male": 3904,
+    "gender_Other": 293,
+    "gaming_genre_Casual": 2405,
+    "gaming_genre_FPS": 3187,
+    "gaming_genre_RPG": 2408
+  },
+  "grades_bruto": {
+    "acima_100": 134,
+    "max": 118.63293578685628,
+    "iguais_100_pos_clip": 573,
+    "iguais_0": 1,
+    "A_vindos_de_100": 0.417
+  },
+  "addiction_zero_pos_clip": 108,
+  "soma_horas": {
+    "max": 23.0,
+    "acima_24": 0
+  },
+  "outliers_iqr": {
+    "age": 0,
+    "gaming_hours": 0,
+    "study_hours": 0,
+    "sleep_hours": 0,
+    "attendance": 0,
+    "social_activity": 0,
+    "device_usage": 0,
+    "reaction_time_ms": 0,
+    "addiction_score": 0
+  },
+  "media_por_conceito": {
+    "A": {
+      "age": 20.06,
+      "gaming_hours": 2.28,
+      "study_hours": 8.28,
+      "sleep_hours": 7.09,
+      "attendance": 82.76,
+      "social_activity": 2.51,
+      "device_usage": 5.78,
+      "reaction_time_ms": 292.46,
+      "addiction_score": 6.42,
+      "stress_level": 2.11
+    },
+    "B": {
+      "age": 20.02,
+      "gaming_hours": 3.46,
+      "study_hours": 7.0,
+      "sleep_hours": 6.58,
+      "attendance": 80.41,
+      "social_activity": 2.47,
+      "device_usage": 6.97,
+      "reaction_time_ms": 278.46,
+      "addiction_score": 8.73,
+      "stress_level": 2.04
+    },
+    "C": {
+      "age": 19.9,
+      "gaming_hours": 3.71,
+      "study_hours": 5.2,
+      "sleep_hours": 6.47,
+      "attendance": 79.12,
+      "social_activity": 2.49,
+      "device_usage": 7.26,
+      "reaction_time_ms": 275.57,
+      "addiction_score": 9.21,
+      "stress_level": 1.95
+    },
+    "D": {
+      "age": 19.98,
+      "gaming_hours": 5.41,
+      "study_hours": 3.51,
+      "sleep_hours": 6.17,
+      "attendance": 78.78,
+      "social_activity": 2.54,
+      "device_usage": 8.9,
+      "reaction_time_ms": 255.18,
+      "addiction_score": 12.51,
+      "stress_level": 1.41
+    }
+  },
+  "associacao": {
+    "age": {
+      "kruskal_H": 3.5,
+      "p": 0.31757212582163286,
+      "epsilon2": 0.0,
+      "spearman": 0.01
+    },
+    "gaming_hours": {
+      "kruskal_H": 2058.3,
+      "p": 0.0,
+      "epsilon2": 0.257,
+      "spearman": -0.498
+    },
+    "study_hours": {
+      "kruskal_H": 4111.4,
+      "p": 0.0,
+      "epsilon2": 0.514,
+      "spearman": 0.715
+    },
+    "sleep_hours": {
+      "kruskal_H": 401.5,
+      "p": 1.0281990923474416e-86,
+      "epsilon2": 0.05,
+      "spearman": 0.214
+    },
+    "attendance": {
+      "kruskal_H": 123.9,
+      "p": 1.1076072911598648e-26,
+      "epsilon2": 0.015,
+      "spearman": 0.113
+    },
+    "social_activity": {
+      "kruskal_H": 3.1,
+      "p": 0.38137387289308927,
+      "epsilon2": 0.0,
+      "spearman": -0.014
+    },
+    "device_usage": {
+      "kruskal_H": 1496.7,
+      "p": 0.0,
+      "epsilon2": 0.187,
+      "spearman": -0.425
+    },
+    "reaction_time_ms": {
+      "kruskal_H": 1808.1,
+      "p": 0.0,
+      "epsilon2": 0.226,
+      "spearman": 0.466
+    },
+    "addiction_score": {
+      "kruskal_H": 1679.5,
+      "p": 0.0,
+      "epsilon2": 0.21,
+      "spearman": -0.449
+    },
+    "stress_level": {
+      "kruskal_H": 1809.0,
+      "p": 0.0,
+      "epsilon2": 0.226,
+      "spearman": 0.45,
+      "chi2": 1908.3,
+      "p_chi2": 0.0,
+      "cramer_v": 0.345
+    },
+    "gender": {
+      "chi2": 5.2,
+      "p_chi2": 0.5233548972528745,
+      "cramer_v": 0.018
+    },
+    "gaming_genre": {
+      "chi2": 2.4,
+      "p_chi2": 0.8760104084652826,
+      "cramer_v": 0.012
+    }
+  },
+  "crosstab": {
+    "gender": {
+      "Female": {
+        "A": 0.177,
+        "B": 0.216,
+        "C": 0.216,
+        "D": 0.391
+      },
+      "Male": {
+        "A": 0.168,
+        "B": 0.207,
+        "C": 0.235,
+        "D": 0.391
+      },
+      "Other": {
+        "A": 0.16,
+        "B": 0.212,
+        "C": 0.222,
+        "D": 0.406
+      }
+    },
+    "gaming_genre": {
+      "Casual": {
+        "A": 0.178,
+        "B": 0.217,
+        "C": 0.217,
+        "D": 0.388
+      },
+      "FPS": {
+        "A": 0.168,
+        "B": 0.211,
+        "C": 0.229,
+        "D": 0.392
+      },
+      "RPG": {
+        "A": 0.172,
+        "B": 0.206,
+        "C": 0.228,
+        "D": 0.394
+      }
+    },
+    "stress_level": {
+      "High": {
+        "A": 0.289,
+        "B": 0.388,
+        "C": 0.251,
+        "D": 0.071
+      },
+      "Low": {
+        "A": 0.053,
+        "B": 0.12,
+        "C": 0.127,
+        "D": 0.7
+      },
+      "Medium": {
+        "A": 0.221,
+        "B": 0.228,
+        "C": 0.283,
+        "D": 0.268
+      }
+    }
+  },
+  "mutual_info": {
+    "study_hours": 0.3449,
+    "gaming_hours": 0.1562,
+    "stress_level": 0.1257,
+    "reaction_time_ms": 0.1159,
+    "addiction_score": 0.1158,
+    "device_usage": 0.0884,
+    "sleep_hours": 0.0244,
+    "attendance": 0.0066,
+    "age": 0.0003,
+    "gender_Female": 0.0003,
+    "gender_Male": 0.0003,
+    "gaming_genre_Casual": 0.0001,
+    "gaming_genre_FPS": 0.0001,
+    "gaming_genre_RPG": 0.0,
+    "gender_Other": 0.0,
+    "social_activity": 0.0
+  },
+  "pares_correlacionados": {
+    "gaming_hours x reaction_time_ms": -0.943,
+    "gaming_hours x addiction_score": 0.916,
+    "reaction_time_ms x addiction_score": -0.862,
+    "device_usage x addiction_score": 0.854,
+    "gaming_hours x device_usage": 0.853,
+    "device_usage x reaction_time_ms": -0.801,
+    "gaming_hours x stress_level": -0.607,
+    "reaction_time_ms x stress_level": 0.577
+  },
+  "vif": {
+    "age": 1.0,
+    "gaming_hours": 14.97,
+    "study_hours": 1.2,
+    "sleep_hours": 1.15,
+    "attendance": 1.0,
+    "social_activity": 1.0,
+    "device_usage": 4.04,
+    "reaction_time_ms": 8.46,
+    "addiction_score": 6.6,
+    "stress_level": 1.93
+  },
+  "pca_var": [
+    0.2473,
+    0.1207,
+    0.0983,
+    0.09,
+    0.0776,
+    0.0674,
+    0.065,
+    0.0629,
+    0.0618,
+    0.0597,
+    0.0243,
+    0.0139,
+    0.0082,
+    0.0029,
+    0.0,
+    0.0
+  ],
+  "pca_comp_90": 10,
+  "lda_var": [
+    0.9872,
+    0.0102,
+    0.0026
+  ],
+  "pca_pc1_cargas": {
+    "gaming_hours": 0.487,
+    "addiction_score": 0.472,
+    "reaction_time_ms": -0.47,
+    "device_usage": 0.454,
+    "stress_level": -0.333,
+    "study_hours": -0.047
+  },
+  "lda_ld1_cargas": {
+    "study_hours": -1.774,
+    "gaming_hours": 1.215,
+    "sleep_hours": -0.537,
+    "attendance": -0.321,
+    "device_usage": 0.008,
+    "addiction_score": -0.006
+  },
+  "baseline_majoritaria": {
+    "accuracy": 0.3914,
+    "f1_macro": 0.1406
+  },
+  "estudo_por_estresse": {
+    "1": 4.96,
+    "2": 5.05,
+    "3": 8.45
+  },
+  "corr_estresse_estudo": 0.298,
+  "estresse_parcial": {
+    "estudo<4": 0.457,
+    "4<=estudo<7": 0.676,
+    "estudo>=7": -0.119
+  },
+  "estresse_arvore": {
+    "acuracia": 0.9995,
+    "regras": "|--- gaming_hours <= 5.01\n|   |--- study_hours <= 7.01\n|   |   |--- weights: [0.00, 3286.00, 0.00] class: 2\n|   |--- study_hours >  7.01\n|   |   |--- sleep_hours <= 5.99\n|   |   |   |--- weights: [0.00, 0.00, 621.00] class: 3\n|   |   |--- sleep_hours >  5.99\n|   |   |   |--- weights: [2.00, 961.00, 0.00] class: 2\n|--- gaming_hours >  5.01\n|   |--- study_hours <= 7.01\n|   |   |--- weights: [2147.00, 0.00, 0.00] class: 1\n|   |--- study_hours >  7.01\n|   |   |--- sleep_hours <= 6.00\n|   |   |   |--- weights: [2.00, 0.00, 389.00] class: 3\n|   |   |--- sleep_hours >  6.00\n|   |   |   |--- weights: [592.00, 0.00, 0.00] class: 1\n"
+  },
+  "r2_linear_nota": 0.911,
+  "r2_linear_nota_sem_saturadas": 0.9059
+}
