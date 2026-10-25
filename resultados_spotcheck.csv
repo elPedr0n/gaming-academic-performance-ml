@@ -1,1251 +1,1751 @@
 modelo,execucao,metrica,valor
-KNN,0,f1_macro,0.6453436005516435
-KNN,1,f1_macro,0.6138808502527945
-KNN,2,f1_macro,0.6291082971056581
-KNN,3,f1_macro,0.6176113649573918
-KNN,4,f1_macro,0.6420483544153895
-KNN,5,f1_macro,0.6193850353755451
-KNN,6,f1_macro,0.62309997463118
-KNN,7,f1_macro,0.6312076179513203
-KNN,8,f1_macro,0.621863243102518
-KNN,9,f1_macro,0.6188312816129796
-KNN,10,f1_macro,0.6261971764165164
-KNN,11,f1_macro,0.6382734216319437
-KNN,12,f1_macro,0.6374069560117708
-KNN,13,f1_macro,0.6222700193802587
-KNN,14,f1_macro,0.6430917553923771
-KNN,15,f1_macro,0.6141141612515244
-KNN,16,f1_macro,0.6260918812715904
-KNN,17,f1_macro,0.630676289923751
-KNN,18,f1_macro,0.6294954966510015
-KNN,19,f1_macro,0.6296661393976907
-KNN,20,f1_macro,0.6359735470612976
-KNN,21,f1_macro,0.6075087186014575
-KNN,22,f1_macro,0.6323661964681093
-KNN,23,f1_macro,0.6314779990377268
-KNN,24,f1_macro,0.6203388724778969
-KNN,25,f1_macro,0.6114732978195287
-KNN,26,f1_macro,0.6384262583405784
-KNN,27,f1_macro,0.6311922246226284
-KNN,28,f1_macro,0.6312492256686194
-KNN,29,f1_macro,0.6439997976538917
-KNN,30,f1_macro,0.616826597416777
-KNN,31,f1_macro,0.629543935238364
-KNN,32,f1_macro,0.6322635833515846
-KNN,33,f1_macro,0.6257502144723812
-KNN,34,f1_macro,0.6379815891421079
-KNN,35,f1_macro,0.6429158115327239
-KNN,36,f1_macro,0.6341487835223045
-KNN,37,f1_macro,0.6385437734796144
-KNN,38,f1_macro,0.6019850885119135
-KNN,39,f1_macro,0.6422442958918748
-KNN,40,f1_macro,0.6170284350253754
-KNN,41,f1_macro,0.6108689337996095
-KNN,42,f1_macro,0.6366143948581467
-KNN,43,f1_macro,0.6399623938826547
-KNN,44,f1_macro,0.6284766206324263
-KNN,45,f1_macro,0.629301007955259
-KNN,46,f1_macro,0.6193465279649915
-KNN,47,f1_macro,0.6211980716813489
-KNN,48,f1_macro,0.6349678116064009
-KNN,49,f1_macro,0.6216693530557005
-KNN,0,accuracy,0.674375
-KNN,1,accuracy,0.646875
-KNN,2,accuracy,0.66125
-KNN,3,accuracy,0.65
-KNN,4,accuracy,0.669375
-KNN,5,accuracy,0.64875
-KNN,6,accuracy,0.654375
+KNN,0,f1_macro,0.6237531987525012
+KNN,1,f1_macro,0.6404176821482236
+KNN,2,f1_macro,0.6297277339939027
+KNN,3,f1_macro,0.632667339806063
+KNN,4,f1_macro,0.6220916158737584
+KNN,5,f1_macro,0.6328176047696057
+KNN,6,f1_macro,0.629882536620653
+KNN,7,f1_macro,0.6338605300970652
+KNN,8,f1_macro,0.608743708633266
+KNN,9,f1_macro,0.6268936452592156
+KNN,10,f1_macro,0.6331987632104827
+KNN,11,f1_macro,0.6334141542731299
+KNN,12,f1_macro,0.6373829900999022
+KNN,13,f1_macro,0.6249329369734647
+KNN,14,f1_macro,0.6331089739725486
+KNN,15,f1_macro,0.6330966307063859
+KNN,16,f1_macro,0.6106421713848917
+KNN,17,f1_macro,0.6177233908881714
+KNN,18,f1_macro,0.6471628499019925
+KNN,19,f1_macro,0.6299717780953505
+KNN,20,f1_macro,0.6263868903219656
+KNN,21,f1_macro,0.6330039500659009
+KNN,22,f1_macro,0.6267521093450001
+KNN,23,f1_macro,0.6363791768919832
+KNN,24,f1_macro,0.6193265522710949
+KNN,25,f1_macro,0.6246778103710677
+KNN,26,f1_macro,0.6143065117372816
+KNN,27,f1_macro,0.6311728816009627
+KNN,28,f1_macro,0.6339247884997999
+KNN,29,f1_macro,0.6225941359707926
+KNN,30,f1_macro,0.6151476058652903
+KNN,31,f1_macro,0.6253116553361757
+KNN,32,f1_macro,0.6200403262261363
+KNN,33,f1_macro,0.6247360337710992
+KNN,34,f1_macro,0.652097268454346
+KNN,35,f1_macro,0.6244760224570134
+KNN,36,f1_macro,0.6257415513530679
+KNN,37,f1_macro,0.6052524251841578
+KNN,38,f1_macro,0.6465414916106754
+KNN,39,f1_macro,0.6343890828248419
+KNN,40,f1_macro,0.6251110672213056
+KNN,41,f1_macro,0.6555537966583592
+KNN,42,f1_macro,0.635028562653325
+KNN,43,f1_macro,0.6246686724343306
+KNN,44,f1_macro,0.6346720200375913
+KNN,45,f1_macro,0.6195501159993613
+KNN,46,f1_macro,0.6192262545594778
+KNN,47,f1_macro,0.6355389524239935
+KNN,48,f1_macro,0.6394080238371549
+KNN,49,f1_macro,0.631196842261834
+KNN,0,accuracy,0.656875
+KNN,1,accuracy,0.668125
+KNN,2,accuracy,0.6575
+KNN,3,accuracy,0.659375
+KNN,4,accuracy,0.656875
+KNN,5,accuracy,0.665
+KNN,6,accuracy,0.659375
 KNN,7,accuracy,0.6625
-KNN,8,accuracy,0.65375
-KNN,9,accuracy,0.65125
-KNN,10,accuracy,0.655625
-KNN,11,accuracy,0.668125
-KNN,12,accuracy,0.669375
-KNN,13,accuracy,0.65625
-KNN,14,accuracy,0.666875
-KNN,15,accuracy,0.646875
-KNN,16,accuracy,0.654375
-KNN,17,accuracy,0.66
-KNN,18,accuracy,0.6625
-KNN,19,accuracy,0.65875
-KNN,20,accuracy,0.6675
-KNN,21,accuracy,0.638125
-KNN,22,accuracy,0.6625
-KNN,23,accuracy,0.661875
-KNN,24,accuracy,0.651875
-KNN,25,accuracy,0.64875
-KNN,26,accuracy,0.665625
-KNN,27,accuracy,0.66125
-KNN,28,accuracy,0.663125
-KNN,29,accuracy,0.673125
-KNN,30,accuracy,0.6475
+KNN,8,accuracy,0.64125
+KNN,9,accuracy,0.65625
+KNN,10,accuracy,0.664375
+KNN,11,accuracy,0.66625
+KNN,12,accuracy,0.666875
+KNN,13,accuracy,0.65875
+KNN,14,accuracy,0.661875
+KNN,15,accuracy,0.66
+KNN,16,accuracy,0.645
+KNN,17,accuracy,0.651875
+KNN,18,accuracy,0.674375
+KNN,19,accuracy,0.6575
+KNN,20,accuracy,0.655625
+KNN,21,accuracy,0.665
+KNN,22,accuracy,0.656875
+KNN,23,accuracy,0.666875
+KNN,24,accuracy,0.650625
+KNN,25,accuracy,0.654375
+KNN,26,accuracy,0.645
+KNN,27,accuracy,0.6625
+KNN,28,accuracy,0.664375
+KNN,29,accuracy,0.65375
+KNN,30,accuracy,0.646875
 KNN,31,accuracy,0.658125
-KNN,32,accuracy,0.66125
-KNN,33,accuracy,0.66
-KNN,34,accuracy,0.67
-KNN,35,accuracy,0.67375
-KNN,36,accuracy,0.666875
-KNN,37,accuracy,0.6675
-KNN,38,accuracy,0.635
-KNN,39,accuracy,0.675
-KNN,40,accuracy,0.648125
-KNN,41,accuracy,0.64125
-KNN,42,accuracy,0.6675
-KNN,43,accuracy,0.670625
-KNN,44,accuracy,0.663125
-KNN,45,accuracy,0.66375
-KNN,46,accuracy,0.650625
-KNN,47,accuracy,0.653125
-KNN,48,accuracy,0.66375
-KNN,49,accuracy,0.651875
-KNN,0,balanced_accuracy,0.6459824262557057
-KNN,1,balanced_accuracy,0.6143590250205534
-KNN,2,balanced_accuracy,0.6304446421433553
-KNN,3,balanced_accuracy,0.6200566756678606
-KNN,4,balanced_accuracy,0.6443707026851149
-KNN,5,balanced_accuracy,0.623562017716876
-KNN,6,balanced_accuracy,0.6251046245315972
-KNN,7,balanced_accuracy,0.633318993345268
-KNN,8,balanced_accuracy,0.6229653558301657
-KNN,9,balanced_accuracy,0.6207434905532166
-KNN,10,balanced_accuracy,0.6283328929280346
-KNN,11,balanced_accuracy,0.6399906727073931
-KNN,12,balanced_accuracy,0.6419017108444602
-KNN,13,balanced_accuracy,0.6233548433670054
-KNN,14,balanced_accuracy,0.6441094914327905
-KNN,15,balanced_accuracy,0.6177964674776416
-KNN,16,balanced_accuracy,0.6283424781173041
-KNN,17,balanced_accuracy,0.6311235255201321
-KNN,18,balanced_accuracy,0.63407960509219
-KNN,19,balanced_accuracy,0.6291507723916709
-KNN,20,balanced_accuracy,0.6391178092038416
-KNN,21,balanced_accuracy,0.6090511021340432
-KNN,22,balanced_accuracy,0.631903489173
-KNN,23,balanced_accuracy,0.6319400525589642
-KNN,24,balanced_accuracy,0.6253811140942542
-KNN,25,balanced_accuracy,0.6129983461208157
-KNN,26,balanced_accuracy,0.6396795531188846
-KNN,27,balanced_accuracy,0.6322860423972814
-KNN,28,balanced_accuracy,0.6355808676223794
-KNN,29,balanced_accuracy,0.6480957550451066
-KNN,30,balanced_accuracy,0.6177778485572007
-KNN,31,balanced_accuracy,0.6300504459122692
-KNN,32,balanced_accuracy,0.6320372226974201
-KNN,33,balanced_accuracy,0.6270046981779023
-KNN,34,balanced_accuracy,0.6427771601164609
-KNN,35,balanced_accuracy,0.6447889711503072
-KNN,36,balanced_accuracy,0.635453389704048
-KNN,37,balanced_accuracy,0.6411974772228437
-KNN,38,balanced_accuracy,0.6041050407198413
-KNN,39,balanced_accuracy,0.6440347237493759
-KNN,40,balanced_accuracy,0.620253319554939
-KNN,41,balanced_accuracy,0.6141357519912249
-KNN,42,balanced_accuracy,0.6389211583734423
-KNN,43,balanced_accuracy,0.641063512281726
-KNN,44,balanced_accuracy,0.6333035429601248
-KNN,45,balanced_accuracy,0.630103857006691
-KNN,46,balanced_accuracy,0.6212721250561172
-KNN,47,balanced_accuracy,0.6219516019469794
-KNN,48,balanced_accuracy,0.6361389761671127
-KNN,49,balanced_accuracy,0.6261354874687526
-KNN,0,precision_macro,0.6465272639924751
-KNN,1,precision_macro,0.6158669539522744
-KNN,2,precision_macro,0.6289756897082354
-KNN,3,precision_macro,0.6162068997065607
-KNN,4,precision_macro,0.6421739420069319
-KNN,5,precision_macro,0.6176093176093176
-KNN,6,precision_macro,0.6224910479436985
-KNN,7,precision_macro,0.6323122803058434
-KNN,8,precision_macro,0.6220474592231668
-KNN,9,precision_macro,0.6179228893387985
-KNN,10,precision_macro,0.6276389486703825
-KNN,11,precision_macro,0.6396713294041917
-KNN,12,precision_macro,0.6376808477509821
-KNN,13,precision_macro,0.6221000436563001
-KNN,14,precision_macro,0.6434302258143244
-KNN,15,precision_macro,0.6135495036115675
-KNN,16,precision_macro,0.6256325224598465
-KNN,17,precision_macro,0.631754473189819
-KNN,18,precision_macro,0.6265963425965548
-KNN,19,precision_macro,0.6319677229402676
-KNN,20,precision_macro,0.6372696117016285
-KNN,21,precision_macro,0.6067959955620508
-KNN,22,precision_macro,0.6333528033539364
-KNN,23,precision_macro,0.6323114418873846
-KNN,24,precision_macro,0.6177705551458481
-KNN,25,precision_macro,0.6107045667171923
-KNN,26,precision_macro,0.6378279308508471
-KNN,27,precision_macro,0.632096589219079
-KNN,28,precision_macro,0.6286001009991348
-KNN,29,precision_macro,0.6440948620482517
-KNN,30,precision_macro,0.6170029726442299
-KNN,31,precision_macro,0.6326246022688309
-KNN,32,precision_macro,0.6340084349916504
-KNN,33,precision_macro,0.6262920355065844
-KNN,34,precision_macro,0.6371935275614251
-KNN,35,precision_macro,0.6451622379087547
-KNN,36,precision_macro,0.6333539223030413
-KNN,37,precision_macro,0.6370735292374485
-KNN,38,precision_macro,0.6011734635030483
-KNN,39,precision_macro,0.6417543126844301
-KNN,40,precision_macro,0.6157039019998289
-KNN,41,precision_macro,0.6093178597624014
-KNN,42,precision_macro,0.6361177736355432
-KNN,43,precision_macro,0.6418095054549877
-KNN,44,precision_macro,0.6253211868416245
-KNN,45,precision_macro,0.6308287965146011
-KNN,46,precision_macro,0.6194359979929572
-KNN,47,precision_macro,0.6220198907277071
-KNN,48,precision_macro,0.6352242111437685
-KNN,49,precision_macro,0.6189775200416697
-KNN,0,recall_macro,0.6459824262557057
-KNN,1,recall_macro,0.6143590250205534
-KNN,2,recall_macro,0.6304446421433553
-KNN,3,recall_macro,0.6200566756678606
-KNN,4,recall_macro,0.6443707026851149
-KNN,5,recall_macro,0.623562017716876
-KNN,6,recall_macro,0.6251046245315972
-KNN,7,recall_macro,0.633318993345268
-KNN,8,recall_macro,0.6229653558301657
-KNN,9,recall_macro,0.6207434905532166
-KNN,10,recall_macro,0.6283328929280346
-KNN,11,recall_macro,0.6399906727073931
-KNN,12,recall_macro,0.6419017108444602
-KNN,13,recall_macro,0.6233548433670054
-KNN,14,recall_macro,0.6441094914327905
-KNN,15,recall_macro,0.6177964674776416
-KNN,16,recall_macro,0.6283424781173041
-KNN,17,recall_macro,0.6311235255201321
-KNN,18,recall_macro,0.63407960509219
-KNN,19,recall_macro,0.6291507723916709
-KNN,20,recall_macro,0.6391178092038416
-KNN,21,recall_macro,0.6090511021340432
-KNN,22,recall_macro,0.631903489173
-KNN,23,recall_macro,0.6319400525589642
-KNN,24,recall_macro,0.6253811140942542
-KNN,25,recall_macro,0.6129983461208157
-KNN,26,recall_macro,0.6396795531188846
-KNN,27,recall_macro,0.6322860423972814
-KNN,28,recall_macro,0.6355808676223794
-KNN,29,recall_macro,0.6480957550451066
-KNN,30,recall_macro,0.6177778485572007
-KNN,31,recall_macro,0.6300504459122692
-KNN,32,recall_macro,0.6320372226974201
-KNN,33,recall_macro,0.6270046981779023
-KNN,34,recall_macro,0.6427771601164609
-KNN,35,recall_macro,0.6447889711503072
-KNN,36,recall_macro,0.635453389704048
-KNN,37,recall_macro,0.6411974772228437
-KNN,38,recall_macro,0.6041050407198413
-KNN,39,recall_macro,0.6440347237493759
-KNN,40,recall_macro,0.620253319554939
-KNN,41,recall_macro,0.6141357519912249
-KNN,42,recall_macro,0.6389211583734423
-KNN,43,recall_macro,0.641063512281726
-KNN,44,recall_macro,0.6333035429601248
-KNN,45,recall_macro,0.630103857006691
-KNN,46,recall_macro,0.6212721250561172
-KNN,47,recall_macro,0.6219516019469794
-KNN,48,recall_macro,0.6361389761671127
-KNN,49,recall_macro,0.6261354874687526
-Random Forest,0,f1_macro,0.7570514682106234
-Random Forest,1,f1_macro,0.7423446517443828
-Random Forest,2,f1_macro,0.7607812450479376
-Random Forest,3,f1_macro,0.758056151890329
-Random Forest,4,f1_macro,0.7556856577158584
-Random Forest,5,f1_macro,0.7450313757323908
-Random Forest,6,f1_macro,0.7363942446223425
-Random Forest,7,f1_macro,0.7667980242696173
-Random Forest,8,f1_macro,0.7654232273591355
-Random Forest,9,f1_macro,0.764079665207639
-Random Forest,10,f1_macro,0.7563469635465271
-Random Forest,11,f1_macro,0.7481124652415388
-Random Forest,12,f1_macro,0.778193357338756
-Random Forest,13,f1_macro,0.7507663389883903
-Random Forest,14,f1_macro,0.7467927548605855
-Random Forest,15,f1_macro,0.7633395487348519
-Random Forest,16,f1_macro,0.751914157651478
-Random Forest,17,f1_macro,0.7509566264969723
-Random Forest,18,f1_macro,0.754376796532117
-Random Forest,19,f1_macro,0.7612128772345265
-Random Forest,20,f1_macro,0.7606443991996603
-Random Forest,21,f1_macro,0.7383972118707421
-Random Forest,22,f1_macro,0.7490147407476453
-Random Forest,23,f1_macro,0.7677921804941459
-Random Forest,24,f1_macro,0.7647624050665988
-Random Forest,25,f1_macro,0.7451611984774064
-Random Forest,26,f1_macro,0.7390118791949362
-Random Forest,27,f1_macro,0.7713136997698836
-Random Forest,28,f1_macro,0.7485289664045398
-Random Forest,29,f1_macro,0.7606341108616236
-Random Forest,30,f1_macro,0.7557875237383623
-Random Forest,31,f1_macro,0.7673673483410567
-Random Forest,32,f1_macro,0.753193917941624
-Random Forest,33,f1_macro,0.7559758800029295
-Random Forest,34,f1_macro,0.752333225121369
-Random Forest,35,f1_macro,0.7440691775874504
-Random Forest,36,f1_macro,0.7643768071752173
-Random Forest,37,f1_macro,0.7614979374610109
-Random Forest,38,f1_macro,0.7621412432659831
-Random Forest,39,f1_macro,0.7365239850817314
-Random Forest,40,f1_macro,0.7441115624799194
-Random Forest,41,f1_macro,0.7532766781477089
-Random Forest,42,f1_macro,0.7646078014401829
-Random Forest,43,f1_macro,0.7558803386335519
-Random Forest,44,f1_macro,0.7772425199951964
-Random Forest,45,f1_macro,0.7578604301532545
-Random Forest,46,f1_macro,0.7571959138513157
-Random Forest,47,f1_macro,0.7551261067455681
-Random Forest,48,f1_macro,0.7558628634830356
-Random Forest,49,f1_macro,0.7513555250194937
+KNN,32,accuracy,0.65
+KNN,33,accuracy,0.6575
+KNN,34,accuracy,0.6775
+KNN,35,accuracy,0.65625
+KNN,36,accuracy,0.653125
+KNN,37,accuracy,0.64
+KNN,38,accuracy,0.68125
+KNN,39,accuracy,0.659375
+KNN,40,accuracy,0.654375
+KNN,41,accuracy,0.684375
+KNN,42,accuracy,0.6625
+KNN,43,accuracy,0.655
+KNN,44,accuracy,0.66625
+KNN,45,accuracy,0.648125
+KNN,46,accuracy,0.65
+KNN,47,accuracy,0.665
+KNN,48,accuracy,0.67
+KNN,49,accuracy,0.664375
+KNN,0,balanced_accuracy,0.6275287049882192
+KNN,1,balanced_accuracy,0.6434528292957371
+KNN,2,balanced_accuracy,0.6310451403381361
+KNN,3,balanced_accuracy,0.6345985297579713
+KNN,4,balanced_accuracy,0.6249874501548975
+KNN,5,balanced_accuracy,0.6370289472111335
+KNN,6,balanced_accuracy,0.63231981302502
+KNN,7,balanced_accuracy,0.6369107158627749
+KNN,8,balanced_accuracy,0.6084226681924395
+KNN,9,balanced_accuracy,0.6302360037088941
+KNN,10,balanced_accuracy,0.6343122835329313
+KNN,11,balanced_accuracy,0.6370839257147736
+KNN,12,balanced_accuracy,0.6387061179181521
+KNN,13,balanced_accuracy,0.6289064127356936
+KNN,14,balanced_accuracy,0.6369046150978319
+KNN,15,balanced_accuracy,0.6361220386675852
+KNN,16,balanced_accuracy,0.6117114098862594
+KNN,17,balanced_accuracy,0.620500385360455
+KNN,18,balanced_accuracy,0.6512207042754204
+KNN,19,balanced_accuracy,0.632035134686589
+KNN,20,balanced_accuracy,0.62750612242009
+KNN,21,balanced_accuracy,0.6343349642299339
+KNN,22,balanced_accuracy,0.6289118261773341
+KNN,23,balanced_accuracy,0.6362635235293106
+KNN,24,balanced_accuracy,0.6206781751064787
+KNN,25,balanced_accuracy,0.6247197056205154
+KNN,26,balanced_accuracy,0.6163239842479162
+KNN,27,balanced_accuracy,0.6336845665062287
+KNN,28,balanced_accuracy,0.6376582837249359
+KNN,29,balanced_accuracy,0.6244238079851347
+KNN,30,balanced_accuracy,0.6182129689923213
+KNN,31,balanced_accuracy,0.6294453593970581
+KNN,32,balanced_accuracy,0.6231663553951013
+KNN,33,balanced_accuracy,0.6254128223712316
+KNN,34,balanced_accuracy,0.6542193103909044
+KNN,35,balanced_accuracy,0.6271399018210759
+KNN,36,balanced_accuracy,0.6280063617645115
+KNN,37,balanced_accuracy,0.6067725402422378
+KNN,38,balanced_accuracy,0.6505475179816511
+KNN,39,balanced_accuracy,0.6363959762163429
+KNN,40,balanced_accuracy,0.6279175081553624
+KNN,41,balanced_accuracy,0.659538885091479
+KNN,42,balanced_accuracy,0.6375825450768521
+KNN,43,balanced_accuracy,0.6250604307025127
+KNN,44,balanced_accuracy,0.6372034633172662
+KNN,45,balanced_accuracy,0.623637787089204
+KNN,46,balanced_accuracy,0.6181310553510226
+KNN,47,balanced_accuracy,0.6359109942531107
+KNN,48,balanced_accuracy,0.6436698381021446
+KNN,49,balanced_accuracy,0.6345247068554809
+KNN,0,precision_macro,0.6226968961545644
+KNN,1,precision_macro,0.6395048881694094
+KNN,2,precision_macro,0.6292988583476747
+KNN,3,precision_macro,0.6322086511519434
+KNN,4,precision_macro,0.62002460107098
+KNN,5,precision_macro,0.6299404894893659
+KNN,6,precision_macro,0.629468977297114
+KNN,7,precision_macro,0.6327744211294406
+KNN,8,precision_macro,0.6094064794122359
+KNN,9,precision_macro,0.6261285298586226
+KNN,10,precision_macro,0.6326189636426756
+KNN,11,precision_macro,0.632740324774489
+KNN,12,precision_macro,0.637657965732677
+KNN,13,precision_macro,0.6224266329586637
+KNN,14,precision_macro,0.6314865090282595
+KNN,15,precision_macro,0.6347429356357928
+KNN,16,precision_macro,0.6115097190907159
+KNN,17,precision_macro,0.6166465843343203
+KNN,18,precision_macro,0.6462234126606783
+KNN,19,precision_macro,0.6290602597309402
+KNN,20,precision_macro,0.6275587349766085
+KNN,21,precision_macro,0.6326323654171596
+KNN,22,precision_macro,0.6256912457720649
+KNN,23,precision_macro,0.6380117128780107
+KNN,24,precision_macro,0.6206313570207881
+KNN,25,precision_macro,0.6269118213724068
+KNN,26,precision_macro,0.6143500618140645
+KNN,27,precision_macro,0.6295642887134384
+KNN,28,precision_macro,0.631392246676089
+KNN,29,precision_macro,0.6227588874698354
+KNN,30,precision_macro,0.6131263193559746
+KNN,31,precision_macro,0.6251453825867443
+KNN,32,precision_macro,0.6188654073414361
+KNN,33,precision_macro,0.6274275918633425
+KNN,34,precision_macro,0.6509981360755899
+KNN,35,precision_macro,0.6232064034766965
+KNN,36,precision_macro,0.6261608774898422
+KNN,37,precision_macro,0.6046236339780099
+KNN,38,precision_macro,0.6446852307330428
+KNN,39,precision_macro,0.634056274066667
+KNN,40,precision_macro,0.624115081375838
+KNN,41,precision_macro,0.6528111377218282
+KNN,42,precision_macro,0.6340567297623766
+KNN,43,precision_macro,0.6260638001606356
+KNN,44,precision_macro,0.633444660272977
+KNN,45,precision_macro,0.6181385106098899
+KNN,46,precision_macro,0.6214223082045545
+KNN,47,precision_macro,0.635854416395226
+KNN,48,precision_macro,0.6377702700176939
+KNN,49,precision_macro,0.6295676833608193
+KNN,0,recall_macro,0.6275287049882192
+KNN,1,recall_macro,0.6434528292957371
+KNN,2,recall_macro,0.6310451403381361
+KNN,3,recall_macro,0.6345985297579713
+KNN,4,recall_macro,0.6249874501548975
+KNN,5,recall_macro,0.6370289472111335
+KNN,6,recall_macro,0.63231981302502
+KNN,7,recall_macro,0.6369107158627749
+KNN,8,recall_macro,0.6084226681924395
+KNN,9,recall_macro,0.6302360037088941
+KNN,10,recall_macro,0.6343122835329313
+KNN,11,recall_macro,0.6370839257147736
+KNN,12,recall_macro,0.6387061179181521
+KNN,13,recall_macro,0.6289064127356936
+KNN,14,recall_macro,0.6369046150978319
+KNN,15,recall_macro,0.6361220386675852
+KNN,16,recall_macro,0.6117114098862594
+KNN,17,recall_macro,0.620500385360455
+KNN,18,recall_macro,0.6512207042754204
+KNN,19,recall_macro,0.632035134686589
+KNN,20,recall_macro,0.62750612242009
+KNN,21,recall_macro,0.6343349642299339
+KNN,22,recall_macro,0.6289118261773341
+KNN,23,recall_macro,0.6362635235293106
+KNN,24,recall_macro,0.6206781751064787
+KNN,25,recall_macro,0.6247197056205154
+KNN,26,recall_macro,0.6163239842479162
+KNN,27,recall_macro,0.6336845665062287
+KNN,28,recall_macro,0.6376582837249359
+KNN,29,recall_macro,0.6244238079851347
+KNN,30,recall_macro,0.6182129689923213
+KNN,31,recall_macro,0.6294453593970581
+KNN,32,recall_macro,0.6231663553951013
+KNN,33,recall_macro,0.6254128223712316
+KNN,34,recall_macro,0.6542193103909044
+KNN,35,recall_macro,0.6271399018210759
+KNN,36,recall_macro,0.6280063617645115
+KNN,37,recall_macro,0.6067725402422378
+KNN,38,recall_macro,0.6505475179816511
+KNN,39,recall_macro,0.6363959762163429
+KNN,40,recall_macro,0.6279175081553624
+KNN,41,recall_macro,0.659538885091479
+KNN,42,recall_macro,0.6375825450768521
+KNN,43,recall_macro,0.6250604307025127
+KNN,44,recall_macro,0.6372034633172662
+KNN,45,recall_macro,0.623637787089204
+KNN,46,recall_macro,0.6181310553510226
+KNN,47,recall_macro,0.6359109942531107
+KNN,48,recall_macro,0.6436698381021446
+KNN,49,recall_macro,0.6345247068554809
+Random Forest,0,f1_macro,0.7570750415250376
+Random Forest,1,f1_macro,0.761843650951751
+Random Forest,2,f1_macro,0.7504869504509795
+Random Forest,3,f1_macro,0.7421825472296184
+Random Forest,4,f1_macro,0.7511800353898159
+Random Forest,5,f1_macro,0.7557811780737191
+Random Forest,6,f1_macro,0.7770489210380697
+Random Forest,7,f1_macro,0.7556621849958752
+Random Forest,8,f1_macro,0.7572788696823686
+Random Forest,9,f1_macro,0.7600433350036492
+Random Forest,10,f1_macro,0.7583387967212781
+Random Forest,11,f1_macro,0.7661502949679018
+Random Forest,12,f1_macro,0.7635300698601601
+Random Forest,13,f1_macro,0.7623087587740582
+Random Forest,14,f1_macro,0.7566023006423415
+Random Forest,15,f1_macro,0.7661880051467435
+Random Forest,16,f1_macro,0.7462218315185833
+Random Forest,17,f1_macro,0.7502305608257404
+Random Forest,18,f1_macro,0.7528568535435578
+Random Forest,19,f1_macro,0.7486647299702757
+Random Forest,20,f1_macro,0.7429305182717548
+Random Forest,21,f1_macro,0.7810817735965665
+Random Forest,22,f1_macro,0.752983153116455
+Random Forest,23,f1_macro,0.7549038619571504
+Random Forest,24,f1_macro,0.7483611466658504
+Random Forest,25,f1_macro,0.7707814604295514
+Random Forest,26,f1_macro,0.7655834156072001
+Random Forest,27,f1_macro,0.7434200580768533
+Random Forest,28,f1_macro,0.753144253716126
+Random Forest,29,f1_macro,0.743503985279322
+Random Forest,30,f1_macro,0.7495918900157328
+Random Forest,31,f1_macro,0.7618232658225511
+Random Forest,32,f1_macro,0.737033411800544
+Random Forest,33,f1_macro,0.7808505531318934
+Random Forest,34,f1_macro,0.7635765741822879
+Random Forest,35,f1_macro,0.7420122353913505
+Random Forest,36,f1_macro,0.765966603357424
+Random Forest,37,f1_macro,0.7523315242923603
+Random Forest,38,f1_macro,0.7698542530871607
+Random Forest,39,f1_macro,0.756729282793871
+Random Forest,40,f1_macro,0.7578509514207471
+Random Forest,41,f1_macro,0.7612289830234074
+Random Forest,42,f1_macro,0.7515710295523478
+Random Forest,43,f1_macro,0.7502512480802684
+Random Forest,44,f1_macro,0.7606338457395768
+Random Forest,45,f1_macro,0.7510718709517802
+Random Forest,46,f1_macro,0.766108582579468
+Random Forest,47,f1_macro,0.7570851696553579
+Random Forest,48,f1_macro,0.7443326165319218
+Random Forest,49,f1_macro,0.7595764951660531
 Random Forest,0,accuracy,0.77875
-Random Forest,1,accuracy,0.763125
-Random Forest,2,accuracy,0.7825
-Random Forest,3,accuracy,0.778125
-Random Forest,4,accuracy,0.7775
-Random Forest,5,accuracy,0.768125
-Random Forest,6,accuracy,0.759375
-Random Forest,7,accuracy,0.788125
-Random Forest,8,accuracy,0.784375
-Random Forest,9,accuracy,0.7825
-Random Forest,10,accuracy,0.77625
-Random Forest,11,accuracy,0.76875
-Random Forest,12,accuracy,0.79625
-Random Forest,13,accuracy,0.775
-Random Forest,14,accuracy,0.76625
-Random Forest,15,accuracy,0.78375
-Random Forest,16,accuracy,0.774375
-Random Forest,17,accuracy,0.77125
-Random Forest,18,accuracy,0.77625
-Random Forest,19,accuracy,0.78125
-Random Forest,20,accuracy,0.780625
-Random Forest,21,accuracy,0.761875
-Random Forest,22,accuracy,0.770625
-Random Forest,23,accuracy,0.78875
-Random Forest,24,accuracy,0.785625
-Random Forest,25,accuracy,0.770625
-Random Forest,26,accuracy,0.75875
-Random Forest,27,accuracy,0.789375
-Random Forest,28,accuracy,0.7725
-Random Forest,29,accuracy,0.780625
-Random Forest,30,accuracy,0.779375
-Random Forest,31,accuracy,0.788125
-Random Forest,32,accuracy,0.771875
-Random Forest,33,accuracy,0.7775
-Random Forest,34,accuracy,0.775
-Random Forest,35,accuracy,0.7675
-Random Forest,36,accuracy,0.783125
-Random Forest,37,accuracy,0.781875
-Random Forest,38,accuracy,0.783125
-Random Forest,39,accuracy,0.76125
-Random Forest,40,accuracy,0.765625
-Random Forest,41,accuracy,0.77125
-Random Forest,42,accuracy,0.786875
-Random Forest,43,accuracy,0.78125
-Random Forest,44,accuracy,0.796875
-Random Forest,45,accuracy,0.78125
-Random Forest,46,accuracy,0.778125
-Random Forest,47,accuracy,0.775625
-Random Forest,48,accuracy,0.778125
-Random Forest,49,accuracy,0.77
-Random Forest,0,balanced_accuracy,0.7552638185026849
-Random Forest,1,balanced_accuracy,0.7399781422620653
-Random Forest,2,balanced_accuracy,0.7585735171977478
-Random Forest,3,balanced_accuracy,0.7523837868166721
-Random Forest,4,balanced_accuracy,0.7524941556810345
-Random Forest,5,balanced_accuracy,0.743375753800855
-Random Forest,6,balanced_accuracy,0.7365034830783764
-Random Forest,7,balanced_accuracy,0.764302326406211
-Random Forest,8,balanced_accuracy,0.7613212328362041
-Random Forest,9,balanced_accuracy,0.759148030049056
-Random Forest,10,balanced_accuracy,0.7531214708593251
-Random Forest,11,balanced_accuracy,0.7454507851593409
-Random Forest,12,balanced_accuracy,0.7766652718189062
-Random Forest,13,balanced_accuracy,0.7480019260953137
-Random Forest,14,balanced_accuracy,0.744087286141348
-Random Forest,15,balanced_accuracy,0.7615332553186804
-Random Forest,16,balanced_accuracy,0.7486926599255648
-Random Forest,17,balanced_accuracy,0.7465219488311831
-Random Forest,18,balanced_accuracy,0.7517044561501229
-Random Forest,19,balanced_accuracy,0.7590284838297309
-Random Forest,20,balanced_accuracy,0.7572628378144572
-Random Forest,21,balanced_accuracy,0.7358985162228795
-Random Forest,22,balanced_accuracy,0.74462453947613
-Random Forest,23,balanced_accuracy,0.7643950451176154
-Random Forest,24,balanced_accuracy,0.7650019279091332
-Random Forest,25,balanced_accuracy,0.7399920451792921
-Random Forest,26,balanced_accuracy,0.7387221169241601
-Random Forest,27,balanced_accuracy,0.7667314468541843
-Random Forest,28,balanced_accuracy,0.7452407630805884
-Random Forest,29,balanced_accuracy,0.7609231004265584
-Random Forest,30,balanced_accuracy,0.7531619960111864
-Random Forest,31,balanced_accuracy,0.7638837769358789
-Random Forest,32,balanced_accuracy,0.7503494385469579
-Random Forest,33,balanced_accuracy,0.754773542503623
-Random Forest,34,balanced_accuracy,0.7519958289580098
-Random Forest,35,balanced_accuracy,0.7411749502184725
-Random Forest,36,balanced_accuracy,0.7574949889668126
-Random Forest,37,balanced_accuracy,0.7609851078665791
-Random Forest,38,balanced_accuracy,0.760071995586544
-Random Forest,39,balanced_accuracy,0.7331244117494422
-Random Forest,40,balanced_accuracy,0.7433101530722989
-Random Forest,41,balanced_accuracy,0.7514220122372636
-Random Forest,42,balanced_accuracy,0.7624134070828181
-Random Forest,43,balanced_accuracy,0.7510408595100839
-Random Forest,44,balanced_accuracy,0.7755472498363004
-Random Forest,45,balanced_accuracy,0.7552672237793695
-Random Forest,46,balanced_accuracy,0.7548925562407915
-Random Forest,47,balanced_accuracy,0.7508601482056134
-Random Forest,48,balanced_accuracy,0.7536697250597771
-Random Forest,49,balanced_accuracy,0.7492871597814518
-Random Forest,0,precision_macro,0.7591400178043459
-Random Forest,1,precision_macro,0.7458321202571621
-Random Forest,2,precision_macro,0.7636368890585989
-Random Forest,3,precision_macro,0.7658931457480092
-Random Forest,4,precision_macro,0.759921639880669
-Random Forest,5,precision_macro,0.7469075143185995
-Random Forest,6,precision_macro,0.7379964640704285
-Random Forest,7,precision_macro,0.7700031858881802
-Random Forest,8,precision_macro,0.770506156089217
-Random Forest,9,precision_macro,0.7705903116806896
-Random Forest,10,precision_macro,0.7605704187889499
-Random Forest,11,precision_macro,0.7512322021519606
-Random Forest,12,precision_macro,0.7804307032147355
-Random Forest,13,precision_macro,0.7544937032294635
-Random Forest,14,precision_macro,0.7507448262092224
-Random Forest,15,precision_macro,0.7656741476381369
-Random Forest,16,precision_macro,0.7565374322566971
-Random Forest,17,precision_macro,0.7571969969382962
-Random Forest,18,precision_macro,0.757381573824192
-Random Forest,19,precision_macro,0.7646795929261917
-Random Forest,20,precision_macro,0.7646814931775775
-Random Forest,21,precision_macro,0.7420181154463732
-Random Forest,22,precision_macro,0.7544895201519908
-Random Forest,23,precision_macro,0.7730503727686866
-Random Forest,24,precision_macro,0.7647518513245746
-Random Forest,25,precision_macro,0.7529238856563478
-Random Forest,26,precision_macro,0.7395595631094588
-Random Forest,27,precision_macro,0.7798962477473393
-Random Forest,28,precision_macro,0.7536661019184243
-Random Forest,29,precision_macro,0.7605653070031426
-Random Forest,30,precision_macro,0.7593929043817736
-Random Forest,31,precision_macro,0.7736510119707591
-Random Forest,32,precision_macro,0.7573270420225662
-Random Forest,33,precision_macro,0.7573942303124479
-Random Forest,34,precision_macro,0.7534656756905359
-Random Forest,35,precision_macro,0.7484003899522589
-Random Forest,36,precision_macro,0.7748096801372404
-Random Forest,37,precision_macro,0.762085328114801
-Random Forest,38,precision_macro,0.7647637776457219
-Random Forest,39,precision_macro,0.7422765642529218
-Random Forest,40,precision_macro,0.745428060281828
-Random Forest,41,precision_macro,0.7556309774647616
-Random Forest,42,precision_macro,0.7687557201812902
-Random Forest,43,precision_macro,0.7624270803959811
-Random Forest,44,precision_macro,0.7795583870110291
-Random Forest,45,precision_macro,0.7617409678579892
-Random Forest,46,precision_macro,0.7611999501042672
-Random Forest,47,precision_macro,0.7605591754774199
-Random Forest,48,precision_macro,0.7594528631368249
-Random Forest,49,precision_macro,0.7538156483728609
-Random Forest,0,recall_macro,0.7552638185026849
-Random Forest,1,recall_macro,0.7399781422620653
-Random Forest,2,recall_macro,0.7585735171977478
-Random Forest,3,recall_macro,0.7523837868166721
-Random Forest,4,recall_macro,0.7524941556810345
-Random Forest,5,recall_macro,0.743375753800855
-Random Forest,6,recall_macro,0.7365034830783764
-Random Forest,7,recall_macro,0.764302326406211
-Random Forest,8,recall_macro,0.7613212328362041
-Random Forest,9,recall_macro,0.759148030049056
-Random Forest,10,recall_macro,0.7531214708593251
-Random Forest,11,recall_macro,0.7454507851593409
-Random Forest,12,recall_macro,0.7766652718189062
-Random Forest,13,recall_macro,0.7480019260953137
-Random Forest,14,recall_macro,0.744087286141348
-Random Forest,15,recall_macro,0.7615332553186804
-Random Forest,16,recall_macro,0.7486926599255648
-Random Forest,17,recall_macro,0.7465219488311831
-Random Forest,18,recall_macro,0.7517044561501229
-Random Forest,19,recall_macro,0.7590284838297309
-Random Forest,20,recall_macro,0.7572628378144572
-Random Forest,21,recall_macro,0.7358985162228795
-Random Forest,22,recall_macro,0.74462453947613
-Random Forest,23,recall_macro,0.7643950451176154
-Random Forest,24,recall_macro,0.7650019279091332
-Random Forest,25,recall_macro,0.7399920451792921
-Random Forest,26,recall_macro,0.7387221169241601
-Random Forest,27,recall_macro,0.7667314468541843
-Random Forest,28,recall_macro,0.7452407630805884
-Random Forest,29,recall_macro,0.7609231004265584
-Random Forest,30,recall_macro,0.7531619960111864
-Random Forest,31,recall_macro,0.7638837769358789
-Random Forest,32,recall_macro,0.7503494385469579
-Random Forest,33,recall_macro,0.754773542503623
-Random Forest,34,recall_macro,0.7519958289580098
-Random Forest,35,recall_macro,0.7411749502184725
-Random Forest,36,recall_macro,0.7574949889668126
-Random Forest,37,recall_macro,0.7609851078665791
-Random Forest,38,recall_macro,0.760071995586544
-Random Forest,39,recall_macro,0.7331244117494422
-Random Forest,40,recall_macro,0.7433101530722989
-Random Forest,41,recall_macro,0.7514220122372636
-Random Forest,42,recall_macro,0.7624134070828181
-Random Forest,43,recall_macro,0.7510408595100839
-Random Forest,44,recall_macro,0.7755472498363004
-Random Forest,45,recall_macro,0.7552672237793695
-Random Forest,46,recall_macro,0.7548925562407915
-Random Forest,47,recall_macro,0.7508601482056134
-Random Forest,48,recall_macro,0.7536697250597771
-Random Forest,49,recall_macro,0.7492871597814518
-Rede Neural (MLP),0,f1_macro,0.7628263648746616
-Rede Neural (MLP),1,f1_macro,0.738214691035264
-Rede Neural (MLP),2,f1_macro,0.7441810007076928
-Rede Neural (MLP),3,f1_macro,0.748963565506812
-Rede Neural (MLP),4,f1_macro,0.7543950779221695
-Rede Neural (MLP),5,f1_macro,0.7457047956624302
-Rede Neural (MLP),6,f1_macro,0.7456272609137027
-Rede Neural (MLP),7,f1_macro,0.7504827981186621
-Rede Neural (MLP),8,f1_macro,0.7523354449895502
-Rede Neural (MLP),9,f1_macro,0.75455167831207
-Rede Neural (MLP),10,f1_macro,0.7578726935780069
-Rede Neural (MLP),11,f1_macro,0.7429882190744992
-Rede Neural (MLP),12,f1_macro,0.7564954655828889
-Rede Neural (MLP),13,f1_macro,0.751411225591621
-Rede Neural (MLP),14,f1_macro,0.7483250922868997
-Rede Neural (MLP),15,f1_macro,0.7508726609127242
-Rede Neural (MLP),16,f1_macro,0.7483188464045609
-Rede Neural (MLP),17,f1_macro,0.7488106706043915
-Rede Neural (MLP),18,f1_macro,0.7595997459323733
-Rede Neural (MLP),19,f1_macro,0.7484104435632376
-Rede Neural (MLP),20,f1_macro,0.7426540210191216
-Rede Neural (MLP),21,f1_macro,0.7275051092289391
-Rede Neural (MLP),22,f1_macro,0.7328703937649795
-Rede Neural (MLP),23,f1_macro,0.7650718608336299
-Rede Neural (MLP),24,f1_macro,0.737523012511871
-Rede Neural (MLP),25,f1_macro,0.7303946520683819
-Rede Neural (MLP),26,f1_macro,0.757558974393228
-Rede Neural (MLP),27,f1_macro,0.751214207563504
-Rede Neural (MLP),28,f1_macro,0.7644774353348636
-Rede Neural (MLP),29,f1_macro,0.7393110213460166
-Rede Neural (MLP),30,f1_macro,0.7528687697647397
-Rede Neural (MLP),31,f1_macro,0.7537693287984178
-Rede Neural (MLP),32,f1_macro,0.7412068433247753
-Rede Neural (MLP),33,f1_macro,0.7501930297725754
-Rede Neural (MLP),34,f1_macro,0.7362593739002097
-Rede Neural (MLP),35,f1_macro,0.7259517741442778
-Rede Neural (MLP),36,f1_macro,0.7500518611756779
-Rede Neural (MLP),37,f1_macro,0.7534791249527985
-Rede Neural (MLP),38,f1_macro,0.7656922817999334
-Rede Neural (MLP),39,f1_macro,0.7386717890471741
-Rede Neural (MLP),40,f1_macro,0.7362456888833048
-Rede Neural (MLP),41,f1_macro,0.7287208636613264
-Rede Neural (MLP),42,f1_macro,0.7605339917739349
-Rede Neural (MLP),43,f1_macro,0.7631115693086622
-Rede Neural (MLP),44,f1_macro,0.7623659061688352
-Rede Neural (MLP),45,f1_macro,0.7253686264786183
-Rede Neural (MLP),46,f1_macro,0.7424836525491539
-Rede Neural (MLP),47,f1_macro,0.7570252712465639
-Rede Neural (MLP),48,f1_macro,0.7361557942871131
-Rede Neural (MLP),49,f1_macro,0.7421935606188816
-Rede Neural (MLP),0,accuracy,0.78125
-Rede Neural (MLP),1,accuracy,0.754375
-Rede Neural (MLP),2,accuracy,0.770625
-Rede Neural (MLP),3,accuracy,0.770625
-Rede Neural (MLP),4,accuracy,0.775625
-Rede Neural (MLP),5,accuracy,0.765625
-Rede Neural (MLP),6,accuracy,0.7675
+Random Forest,1,accuracy,0.78125
+Random Forest,2,accuracy,0.77375
+Random Forest,3,accuracy,0.765
+Random Forest,4,accuracy,0.774375
+Random Forest,5,accuracy,0.776875
+Random Forest,6,accuracy,0.795625
+Random Forest,7,accuracy,0.776875
+Random Forest,8,accuracy,0.778125
+Random Forest,9,accuracy,0.778125
+Random Forest,10,accuracy,0.776875
+Random Forest,11,accuracy,0.785
+Random Forest,12,accuracy,0.786875
+Random Forest,13,accuracy,0.781875
+Random Forest,14,accuracy,0.7775
+Random Forest,15,accuracy,0.785
+Random Forest,16,accuracy,0.76875
+Random Forest,17,accuracy,0.775
+Random Forest,18,accuracy,0.77375
+Random Forest,19,accuracy,0.769375
+Random Forest,20,accuracy,0.765625
+Random Forest,21,accuracy,0.8
+Random Forest,22,accuracy,0.773125
+Random Forest,23,accuracy,0.7775
+Random Forest,24,accuracy,0.76875
+Random Forest,25,accuracy,0.791875
+Random Forest,26,accuracy,0.784375
+Random Forest,27,accuracy,0.76875
+Random Forest,28,accuracy,0.775625
+Random Forest,29,accuracy,0.761875
+Random Forest,30,accuracy,0.771875
+Random Forest,31,accuracy,0.7825
+Random Forest,32,accuracy,0.76125
+Random Forest,33,accuracy,0.80125
+Random Forest,34,accuracy,0.781875
+Random Forest,35,accuracy,0.76625
+Random Forest,36,accuracy,0.785625
+Random Forest,37,accuracy,0.775625
+Random Forest,38,accuracy,0.79125
+Random Forest,39,accuracy,0.77375
+Random Forest,40,accuracy,0.778125
+Random Forest,41,accuracy,0.785
+Random Forest,42,accuracy,0.770625
+Random Forest,43,accuracy,0.775625
+Random Forest,44,accuracy,0.78125
+Random Forest,45,accuracy,0.77
+Random Forest,46,accuracy,0.786875
+Random Forest,47,accuracy,0.78
+Random Forest,48,accuracy,0.763125
+Random Forest,49,accuracy,0.783125
+Random Forest,0,balanced_accuracy,0.7553961799558965
+Random Forest,1,balanced_accuracy,0.7607992490044952
+Random Forest,2,balanced_accuracy,0.748459960700484
+Random Forest,3,balanced_accuracy,0.7387425510280841
+Random Forest,4,balanced_accuracy,0.747851668604605
+Random Forest,5,balanced_accuracy,0.7523571789209442
+Random Forest,6,balanced_accuracy,0.7753334552273935
+Random Forest,7,balanced_accuracy,0.7541587195866937
+Random Forest,8,balanced_accuracy,0.753114263048956
+Random Forest,9,balanced_accuracy,0.7594801252213317
+Random Forest,10,balanced_accuracy,0.7553788311328797
+Random Forest,11,balanced_accuracy,0.7640907748397082
+Random Forest,12,balanced_accuracy,0.7591741614264147
+Random Forest,13,balanced_accuracy,0.760285489129992
+Random Forest,14,balanced_accuracy,0.7542780171556562
+Random Forest,15,balanced_accuracy,0.7666495616394402
+Random Forest,16,balanced_accuracy,0.7430449003807769
+Random Forest,17,balanced_accuracy,0.7465700527979029
+Random Forest,18,balanced_accuracy,0.7519203389602883
+Random Forest,19,balanced_accuracy,0.7443636206724322
+Random Forest,20,balanced_accuracy,0.7405987939186319
+Random Forest,21,balanced_accuracy,0.7797645109207091
+Random Forest,22,balanced_accuracy,0.7498930798442783
+Random Forest,23,balanced_accuracy,0.7501811272213557
+Random Forest,24,balanced_accuracy,0.7451441428483812
+Random Forest,25,balanced_accuracy,0.7693793627649903
+Random Forest,26,balanced_accuracy,0.7628826720627779
+Random Forest,27,balanced_accuracy,0.7384410647011428
+Random Forest,28,balanced_accuracy,0.7529167265223107
+Random Forest,29,balanced_accuracy,0.7407778528859822
+Random Forest,30,balanced_accuracy,0.7472880667465688
+Random Forest,31,balanced_accuracy,0.7645329203867957
+Random Forest,32,balanced_accuracy,0.7321223269139852
+Random Forest,33,balanced_accuracy,0.7772820451391861
+Random Forest,34,balanced_accuracy,0.7590508512937677
+Random Forest,35,balanced_accuracy,0.7412214916212893
+Random Forest,36,balanced_accuracy,0.7632308789025748
+Random Forest,37,balanced_accuracy,0.7475276599724812
+Random Forest,38,balanced_accuracy,0.7693342837858155
+Random Forest,39,balanced_accuracy,0.7547444893773904
+Random Forest,40,balanced_accuracy,0.7570257621370983
+Random Forest,41,balanced_accuracy,0.7593462366653387
+Random Forest,42,balanced_accuracy,0.7484712176398727
+Random Forest,43,balanced_accuracy,0.7478974093455317
+Random Forest,44,balanced_accuracy,0.7580384894812779
+Random Forest,45,balanced_accuracy,0.7489945704318175
+Random Forest,46,balanced_accuracy,0.7604951333773065
+Random Forest,47,balanced_accuracy,0.7530794866083641
+Random Forest,48,balanced_accuracy,0.742525297198953
+Random Forest,49,balanced_accuracy,0.7587607681305283
+Random Forest,0,precision_macro,0.7592692148938152
+Random Forest,1,precision_macro,0.7631929431865481
+Random Forest,2,precision_macro,0.7532590358407204
+Random Forest,3,precision_macro,0.7465205871795492
+Random Forest,4,precision_macro,0.7552153176744931
+Random Forest,5,precision_macro,0.7601967403038041
+Random Forest,6,precision_macro,0.7798267330135493
+Random Forest,7,precision_macro,0.7579082037989482
+Random Forest,8,precision_macro,0.7629505138988135
+Random Forest,9,precision_macro,0.7612785268845188
+Random Forest,10,precision_macro,0.7617861113994642
+Random Forest,11,precision_macro,0.7709226954228949
+Random Forest,12,precision_macro,0.7687852095476699
+Random Forest,13,precision_macro,0.7646744315303564
+Random Forest,14,precision_macro,0.7611222704991086
+Random Forest,15,precision_macro,0.7662518890020904
+Random Forest,16,precision_macro,0.7508505552965923
+Random Forest,17,precision_macro,0.7549873707680842
+Random Forest,18,precision_macro,0.7545243026158224
+Random Forest,19,precision_macro,0.7537762748644283
+Random Forest,20,precision_macro,0.7459689382182525
+Random Forest,21,precision_macro,0.7825039103665534
+Random Forest,22,precision_macro,0.7572424870818966
+Random Forest,23,precision_macro,0.7624376942991624
+Random Forest,24,precision_macro,0.7525998106745032
+Random Forest,25,precision_macro,0.7724136209060958
+Random Forest,26,precision_macro,0.769912605087449
+Random Forest,27,precision_macro,0.7515265709044084
+Random Forest,28,precision_macro,0.7536744263727206
+Random Forest,29,precision_macro,0.746555645361449
+Random Forest,30,precision_macro,0.7525527995429127
+Random Forest,31,precision_macro,0.759424902120146
+Random Forest,32,precision_macro,0.7459346526852249
+Random Forest,33,precision_macro,0.7869881266902758
+Random Forest,34,precision_macro,0.7693357623706012
+Random Forest,35,precision_macro,0.7435749185538261
+Random Forest,36,precision_macro,0.7691589085818407
+Random Forest,37,precision_macro,0.7594215656140679
+Random Forest,38,precision_macro,0.7707483506620108
+Random Forest,39,precision_macro,0.7589804197363086
+Random Forest,40,precision_macro,0.7601213140615697
+Random Forest,41,precision_macro,0.7633613125829831
+Random Forest,42,precision_macro,0.7551024949722913
+Random Forest,43,precision_macro,0.7543107098476944
+Random Forest,44,precision_macro,0.7640411843972948
+Random Forest,45,precision_macro,0.7536462380976592
+Random Forest,46,precision_macro,0.7756555442762803
+Random Forest,47,precision_macro,0.7624955565926559
+Random Forest,48,precision_macro,0.7466057335202223
+Random Forest,49,precision_macro,0.7612183741300818
+Random Forest,0,recall_macro,0.7553961799558965
+Random Forest,1,recall_macro,0.7607992490044952
+Random Forest,2,recall_macro,0.748459960700484
+Random Forest,3,recall_macro,0.7387425510280841
+Random Forest,4,recall_macro,0.747851668604605
+Random Forest,5,recall_macro,0.7523571789209442
+Random Forest,6,recall_macro,0.7753334552273935
+Random Forest,7,recall_macro,0.7541587195866937
+Random Forest,8,recall_macro,0.753114263048956
+Random Forest,9,recall_macro,0.7594801252213317
+Random Forest,10,recall_macro,0.7553788311328797
+Random Forest,11,recall_macro,0.7640907748397082
+Random Forest,12,recall_macro,0.7591741614264147
+Random Forest,13,recall_macro,0.760285489129992
+Random Forest,14,recall_macro,0.7542780171556562
+Random Forest,15,recall_macro,0.7666495616394402
+Random Forest,16,recall_macro,0.7430449003807769
+Random Forest,17,recall_macro,0.7465700527979029
+Random Forest,18,recall_macro,0.7519203389602883
+Random Forest,19,recall_macro,0.7443636206724322
+Random Forest,20,recall_macro,0.7405987939186319
+Random Forest,21,recall_macro,0.7797645109207091
+Random Forest,22,recall_macro,0.7498930798442783
+Random Forest,23,recall_macro,0.7501811272213557
+Random Forest,24,recall_macro,0.7451441428483812
+Random Forest,25,recall_macro,0.7693793627649903
+Random Forest,26,recall_macro,0.7628826720627779
+Random Forest,27,recall_macro,0.7384410647011428
+Random Forest,28,recall_macro,0.7529167265223107
+Random Forest,29,recall_macro,0.7407778528859822
+Random Forest,30,recall_macro,0.7472880667465688
+Random Forest,31,recall_macro,0.7645329203867957
+Random Forest,32,recall_macro,0.7321223269139852
+Random Forest,33,recall_macro,0.7772820451391861
+Random Forest,34,recall_macro,0.7590508512937677
+Random Forest,35,recall_macro,0.7412214916212893
+Random Forest,36,recall_macro,0.7632308789025748
+Random Forest,37,recall_macro,0.7475276599724812
+Random Forest,38,recall_macro,0.7693342837858155
+Random Forest,39,recall_macro,0.7547444893773904
+Random Forest,40,recall_macro,0.7570257621370983
+Random Forest,41,recall_macro,0.7593462366653387
+Random Forest,42,recall_macro,0.7484712176398727
+Random Forest,43,recall_macro,0.7478974093455317
+Random Forest,44,recall_macro,0.7580384894812779
+Random Forest,45,recall_macro,0.7489945704318175
+Random Forest,46,recall_macro,0.7604951333773065
+Random Forest,47,recall_macro,0.7530794866083641
+Random Forest,48,recall_macro,0.742525297198953
+Random Forest,49,recall_macro,0.7587607681305283
+Rede Neural (MLP),0,f1_macro,0.7503189130901963
+Rede Neural (MLP),1,f1_macro,0.7596506363247941
+Rede Neural (MLP),2,f1_macro,0.7455869746908326
+Rede Neural (MLP),3,f1_macro,0.7655821011624427
+Rede Neural (MLP),4,f1_macro,0.751710485028043
+Rede Neural (MLP),5,f1_macro,0.7539790908321968
+Rede Neural (MLP),6,f1_macro,0.7646838503319124
+Rede Neural (MLP),7,f1_macro,0.748106458395829
+Rede Neural (MLP),8,f1_macro,0.7429007089411045
+Rede Neural (MLP),9,f1_macro,0.7596162194846416
+Rede Neural (MLP),10,f1_macro,0.7470874044814395
+Rede Neural (MLP),11,f1_macro,0.7304445105757461
+Rede Neural (MLP),12,f1_macro,0.7569629508357468
+Rede Neural (MLP),13,f1_macro,0.7409994369016768
+Rede Neural (MLP),14,f1_macro,0.7412647247236208
+Rede Neural (MLP),15,f1_macro,0.7596629405631272
+Rede Neural (MLP),16,f1_macro,0.7526663224173922
+Rede Neural (MLP),17,f1_macro,0.7500277670735176
+Rede Neural (MLP),18,f1_macro,0.7578459358455507
+Rede Neural (MLP),19,f1_macro,0.749715765884686
+Rede Neural (MLP),20,f1_macro,0.7497068900569115
+Rede Neural (MLP),21,f1_macro,0.7746813181239564
+Rede Neural (MLP),22,f1_macro,0.7389091734498725
+Rede Neural (MLP),23,f1_macro,0.7421095466901111
+Rede Neural (MLP),24,f1_macro,0.7401623917409821
+Rede Neural (MLP),25,f1_macro,0.7604808397731115
+Rede Neural (MLP),26,f1_macro,0.7569797807830589
+Rede Neural (MLP),27,f1_macro,0.7549768441323123
+Rede Neural (MLP),28,f1_macro,0.7280101618290542
+Rede Neural (MLP),29,f1_macro,0.7355000543408828
+Rede Neural (MLP),30,f1_macro,0.7462299923940411
+Rede Neural (MLP),31,f1_macro,0.7624623854901116
+Rede Neural (MLP),32,f1_macro,0.7304291224568676
+Rede Neural (MLP),33,f1_macro,0.7559218949312652
+Rede Neural (MLP),34,f1_macro,0.7548098349366466
+Rede Neural (MLP),35,f1_macro,0.7627116998869908
+Rede Neural (MLP),36,f1_macro,0.7627464162051288
+Rede Neural (MLP),37,f1_macro,0.7443133715947572
+Rede Neural (MLP),38,f1_macro,0.7465104769167623
+Rede Neural (MLP),39,f1_macro,0.7500495218081896
+Rede Neural (MLP),40,f1_macro,0.7366009192339028
+Rede Neural (MLP),41,f1_macro,0.7485195424997615
+Rede Neural (MLP),42,f1_macro,0.7608571152917377
+Rede Neural (MLP),43,f1_macro,0.7626765733870224
+Rede Neural (MLP),44,f1_macro,0.7483124087398344
+Rede Neural (MLP),45,f1_macro,0.7474751547071937
+Rede Neural (MLP),46,f1_macro,0.7612045399908588
+Rede Neural (MLP),47,f1_macro,0.7535033067162155
+Rede Neural (MLP),48,f1_macro,0.7499843382509433
+Rede Neural (MLP),49,f1_macro,0.7450149721414381
+Rede Neural (MLP),0,accuracy,0.771875
+Rede Neural (MLP),1,accuracy,0.779375
+Rede Neural (MLP),2,accuracy,0.76875
+Rede Neural (MLP),3,accuracy,0.7875
+Rede Neural (MLP),4,accuracy,0.775
+Rede Neural (MLP),5,accuracy,0.773125
+Rede Neural (MLP),6,accuracy,0.7875
 Rede Neural (MLP),7,accuracy,0.773125
-Rede Neural (MLP),8,accuracy,0.77125
+Rede Neural (MLP),8,accuracy,0.764375
 Rede Neural (MLP),9,accuracy,0.77375
-Rede Neural (MLP),10,accuracy,0.779375
-Rede Neural (MLP),11,accuracy,0.7625
-Rede Neural (MLP),12,accuracy,0.779375
-Rede Neural (MLP),13,accuracy,0.77625
-Rede Neural (MLP),14,accuracy,0.765
-Rede Neural (MLP),15,accuracy,0.773125
-Rede Neural (MLP),16,accuracy,0.77375
-Rede Neural (MLP),17,accuracy,0.768125
-Rede Neural (MLP),18,accuracy,0.779375
-Rede Neural (MLP),19,accuracy,0.77125
-Rede Neural (MLP),20,accuracy,0.764375
-Rede Neural (MLP),21,accuracy,0.751875
-Rede Neural (MLP),22,accuracy,0.755
-Rede Neural (MLP),23,accuracy,0.78375
-Rede Neural (MLP),24,accuracy,0.761875
-Rede Neural (MLP),25,accuracy,0.75625
-Rede Neural (MLP),26,accuracy,0.776875
-Rede Neural (MLP),27,accuracy,0.773125
-Rede Neural (MLP),28,accuracy,0.7875
-Rede Neural (MLP),29,accuracy,0.76
-Rede Neural (MLP),30,accuracy,0.778125
-Rede Neural (MLP),31,accuracy,0.773125
-Rede Neural (MLP),32,accuracy,0.764375
-Rede Neural (MLP),33,accuracy,0.775625
-Rede Neural (MLP),34,accuracy,0.76
-Rede Neural (MLP),35,accuracy,0.749375
-Rede Neural (MLP),36,accuracy,0.774375
-Rede Neural (MLP),37,accuracy,0.774375
-Rede Neural (MLP),38,accuracy,0.785
-Rede Neural (MLP),39,accuracy,0.76125
-Rede Neural (MLP),40,accuracy,0.763125
-Rede Neural (MLP),41,accuracy,0.749375
-Rede Neural (MLP),42,accuracy,0.781875
-Rede Neural (MLP),43,accuracy,0.78875
-Rede Neural (MLP),44,accuracy,0.784375
-Rede Neural (MLP),45,accuracy,0.755625
-Rede Neural (MLP),46,accuracy,0.766875
-Rede Neural (MLP),47,accuracy,0.779375
-Rede Neural (MLP),48,accuracy,0.75625
-Rede Neural (MLP),49,accuracy,0.7625
-Rede Neural (MLP),0,balanced_accuracy,0.7623038977441811
-Rede Neural (MLP),1,balanced_accuracy,0.7387037184159708
-Rede Neural (MLP),2,balanced_accuracy,0.7414424463411875
-Rede Neural (MLP),3,balanced_accuracy,0.7433899016399055
-Rede Neural (MLP),4,balanced_accuracy,0.7549539701667267
-Rede Neural (MLP),5,balanced_accuracy,0.746340908304471
-Rede Neural (MLP),6,balanced_accuracy,0.7485178945448914
-Rede Neural (MLP),7,balanced_accuracy,0.750445371455863
-Rede Neural (MLP),8,balanced_accuracy,0.7480611668180333
-Rede Neural (MLP),9,balanced_accuracy,0.7507450182319081
-Rede Neural (MLP),10,balanced_accuracy,0.7581411947252028
-Rede Neural (MLP),11,balanced_accuracy,0.7423544153913155
-Rede Neural (MLP),12,balanced_accuracy,0.7577836628256907
-Rede Neural (MLP),13,balanced_accuracy,0.7514864939459587
-Rede Neural (MLP),14,balanced_accuracy,0.7484936963372183
-Rede Neural (MLP),15,balanced_accuracy,0.750172182743033
-Rede Neural (MLP),16,balanced_accuracy,0.747545163901126
-Rede Neural (MLP),17,balanced_accuracy,0.7460262600252382
-Rede Neural (MLP),18,balanced_accuracy,0.7607034537030711
-Rede Neural (MLP),19,balanced_accuracy,0.7470569679308205
-Rede Neural (MLP),20,balanced_accuracy,0.7404266308365498
-Rede Neural (MLP),21,balanced_accuracy,0.7266863677764899
-Rede Neural (MLP),22,balanced_accuracy,0.7319214127318612
-Rede Neural (MLP),23,balanced_accuracy,0.7619559223838964
-Rede Neural (MLP),24,balanced_accuracy,0.7398470732193243
-Rede Neural (MLP),25,balanced_accuracy,0.7299652276423532
-Rede Neural (MLP),26,balanced_accuracy,0.7589746653559116
-Rede Neural (MLP),27,balanced_accuracy,0.748892670911312
-Rede Neural (MLP),28,balanced_accuracy,0.7643513665370227
-Rede Neural (MLP),29,balanced_accuracy,0.7392793658803534
-Rede Neural (MLP),30,balanced_accuracy,0.7510912653473383
-Rede Neural (MLP),31,balanced_accuracy,0.750882790360937
-Rede Neural (MLP),32,balanced_accuracy,0.7403540361983227
-Rede Neural (MLP),33,balanced_accuracy,0.7501549611862401
-Rede Neural (MLP),34,balanced_accuracy,0.7358144251506161
-Rede Neural (MLP),35,balanced_accuracy,0.7222483358971215
-Rede Neural (MLP),36,balanced_accuracy,0.7462310146962362
-Rede Neural (MLP),37,balanced_accuracy,0.7545298437967759
-Rede Neural (MLP),38,balanced_accuracy,0.7655804707482177
-Rede Neural (MLP),39,balanced_accuracy,0.7380509750333851
-Rede Neural (MLP),40,balanced_accuracy,0.7356597546627912
-Rede Neural (MLP),41,balanced_accuracy,0.7274739792965701
-Rede Neural (MLP),42,balanced_accuracy,0.759701953764867
-Rede Neural (MLP),43,balanced_accuracy,0.7611588674343991
-Rede Neural (MLP),44,balanced_accuracy,0.7623234200977104
-Rede Neural (MLP),45,balanced_accuracy,0.7247352495682455
-Rede Neural (MLP),46,balanced_accuracy,0.7418835269239616
-Rede Neural (MLP),47,balanced_accuracy,0.7550533745403272
-Rede Neural (MLP),48,balanced_accuracy,0.7333369255209614
-Rede Neural (MLP),49,balanced_accuracy,0.7423955850454769
-Rede Neural (MLP),0,precision_macro,0.7642286759253716
-Rede Neural (MLP),1,precision_macro,0.740897305293068
-Rede Neural (MLP),2,precision_macro,0.7485397469881258
-Rede Neural (MLP),3,precision_macro,0.7573006131666131
-Rede Neural (MLP),4,precision_macro,0.7542437661229073
-Rede Neural (MLP),5,precision_macro,0.7463802604793399
-Rede Neural (MLP),6,precision_macro,0.7432841152660736
-Rede Neural (MLP),7,precision_macro,0.7533856672307385
-Rede Neural (MLP),8,precision_macro,0.7599651518835084
-Rede Neural (MLP),9,precision_macro,0.7611334143194475
-Rede Neural (MLP),10,precision_macro,0.7578244206926793
-Rede Neural (MLP),11,precision_macro,0.7448547295108513
-Rede Neural (MLP),12,precision_macro,0.7559842382599444
-Rede Neural (MLP),13,precision_macro,0.7513622778050347
-Rede Neural (MLP),14,precision_macro,0.7497907043460209
-Rede Neural (MLP),15,precision_macro,0.7521285929084914
-Rede Neural (MLP),16,precision_macro,0.7495833923471762
-Rede Neural (MLP),17,precision_macro,0.7530122010118627
-Rede Neural (MLP),18,precision_macro,0.7596462088908821
-Rede Neural (MLP),19,precision_macro,0.7501363597406429
-Rede Neural (MLP),20,precision_macro,0.7458400121624087
-Rede Neural (MLP),21,precision_macro,0.728681727418359
-Rede Neural (MLP),22,precision_macro,0.7349114542276303
-Rede Neural (MLP),23,precision_macro,0.7702188973327619
-Rede Neural (MLP),24,precision_macro,0.7357593281941175
-Rede Neural (MLP),25,precision_macro,0.7309530549039944
-Rede Neural (MLP),26,precision_macro,0.7566103444257628
-Rede Neural (MLP),27,precision_macro,0.7556097277197469
-Rede Neural (MLP),28,precision_macro,0.7653721601728096
-Rede Neural (MLP),29,precision_macro,0.7399701099537975
-Rede Neural (MLP),30,precision_macro,0.7558275501705638
-Rede Neural (MLP),31,precision_macro,0.7605933255942421
-Rede Neural (MLP),32,precision_macro,0.7427110263561066
-Rede Neural (MLP),33,precision_macro,0.7505334168476571
-Rede Neural (MLP),34,precision_macro,0.7374435838592532
-Rede Neural (MLP),35,precision_macro,0.7351608926002091
-Rede Neural (MLP),36,precision_macro,0.7551269335323223
-Rede Neural (MLP),37,precision_macro,0.7530633168769999
-Rede Neural (MLP),38,precision_macro,0.7659350022923709
-Rede Neural (MLP),39,precision_macro,0.73973117460253
-Rede Neural (MLP),40,precision_macro,0.7374301824316501
-Rede Neural (MLP),41,precision_macro,0.73065040941671
-Rede Neural (MLP),42,precision_macro,0.761909069773094
-Rede Neural (MLP),43,precision_macro,0.7656795142625633
-Rede Neural (MLP),44,precision_macro,0.7631802074736858
-Rede Neural (MLP),45,precision_macro,0.726649251155736
-Rede Neural (MLP),46,precision_macro,0.7459911599688367
-Rede Neural (MLP),47,precision_macro,0.7602299443882172
-Rede Neural (MLP),48,precision_macro,0.7407401689866904
-Rede Neural (MLP),49,precision_macro,0.7421762071248779
-Rede Neural (MLP),0,recall_macro,0.7623038977441811
-Rede Neural (MLP),1,recall_macro,0.7387037184159708
-Rede Neural (MLP),2,recall_macro,0.7414424463411875
-Rede Neural (MLP),3,recall_macro,0.7433899016399055
-Rede Neural (MLP),4,recall_macro,0.7549539701667267
-Rede Neural (MLP),5,recall_macro,0.746340908304471
-Rede Neural (MLP),6,recall_macro,0.7485178945448914
-Rede Neural (MLP),7,recall_macro,0.750445371455863
-Rede Neural (MLP),8,recall_macro,0.7480611668180333
-Rede Neural (MLP),9,recall_macro,0.7507450182319081
-Rede Neural (MLP),10,recall_macro,0.7581411947252028
-Rede Neural (MLP),11,recall_macro,0.7423544153913155
-Rede Neural (MLP),12,recall_macro,0.7577836628256907
-Rede Neural (MLP),13,recall_macro,0.7514864939459587
-Rede Neural (MLP),14,recall_macro,0.7484936963372183
-Rede Neural (MLP),15,recall_macro,0.750172182743033
-Rede Neural (MLP),16,recall_macro,0.747545163901126
-Rede Neural (MLP),17,recall_macro,0.7460262600252382
-Rede Neural (MLP),18,recall_macro,0.7607034537030711
-Rede Neural (MLP),19,recall_macro,0.7470569679308205
-Rede Neural (MLP),20,recall_macro,0.7404266308365498
-Rede Neural (MLP),21,recall_macro,0.7266863677764899
-Rede Neural (MLP),22,recall_macro,0.7319214127318612
-Rede Neural (MLP),23,recall_macro,0.7619559223838964
-Rede Neural (MLP),24,recall_macro,0.7398470732193243
-Rede Neural (MLP),25,recall_macro,0.7299652276423532
-Rede Neural (MLP),26,recall_macro,0.7589746653559116
-Rede Neural (MLP),27,recall_macro,0.748892670911312
-Rede Neural (MLP),28,recall_macro,0.7643513665370227
-Rede Neural (MLP),29,recall_macro,0.7392793658803534
-Rede Neural (MLP),30,recall_macro,0.7510912653473383
-Rede Neural (MLP),31,recall_macro,0.750882790360937
-Rede Neural (MLP),32,recall_macro,0.7403540361983227
-Rede Neural (MLP),33,recall_macro,0.7501549611862401
-Rede Neural (MLP),34,recall_macro,0.7358144251506161
-Rede Neural (MLP),35,recall_macro,0.7222483358971215
-Rede Neural (MLP),36,recall_macro,0.7462310146962362
-Rede Neural (MLP),37,recall_macro,0.7545298437967759
-Rede Neural (MLP),38,recall_macro,0.7655804707482177
-Rede Neural (MLP),39,recall_macro,0.7380509750333851
-Rede Neural (MLP),40,recall_macro,0.7356597546627912
-Rede Neural (MLP),41,recall_macro,0.7274739792965701
-Rede Neural (MLP),42,recall_macro,0.759701953764867
-Rede Neural (MLP),43,recall_macro,0.7611588674343991
-Rede Neural (MLP),44,recall_macro,0.7623234200977104
-Rede Neural (MLP),45,recall_macro,0.7247352495682455
-Rede Neural (MLP),46,recall_macro,0.7418835269239616
-Rede Neural (MLP),47,recall_macro,0.7550533745403272
-Rede Neural (MLP),48,recall_macro,0.7333369255209614
-Rede Neural (MLP),49,recall_macro,0.7423955850454769
-LightGBM,0,f1_macro,0.7686846199454409
-LightGBM,1,f1_macro,0.7581947910808621
-LightGBM,2,f1_macro,0.7719507186614387
-LightGBM,3,f1_macro,0.761663883060795
-LightGBM,4,f1_macro,0.7541633725778694
-LightGBM,5,f1_macro,0.7476962082221222
-LightGBM,6,f1_macro,0.7516125664966024
-LightGBM,7,f1_macro,0.7733476406789904
-LightGBM,8,f1_macro,0.7676360879415881
-LightGBM,9,f1_macro,0.7726211938969098
-LightGBM,10,f1_macro,0.7608171752368084
-LightGBM,11,f1_macro,0.7691915462180616
-LightGBM,12,f1_macro,0.7723980593479912
-LightGBM,13,f1_macro,0.7697585702289782
-LightGBM,14,f1_macro,0.7535988557159333
-LightGBM,15,f1_macro,0.7897553989069104
-LightGBM,16,f1_macro,0.7599455084198659
-LightGBM,17,f1_macro,0.7504048119282344
-LightGBM,18,f1_macro,0.765832838141296
-LightGBM,19,f1_macro,0.7747592769945286
-LightGBM,20,f1_macro,0.7721802314623842
-LightGBM,21,f1_macro,0.757524581022878
-LightGBM,22,f1_macro,0.76423466384355
-LightGBM,23,f1_macro,0.7557145534643778
-LightGBM,24,f1_macro,0.765979740191897
-LightGBM,25,f1_macro,0.763777574612124
-LightGBM,26,f1_macro,0.7655330017122841
-LightGBM,27,f1_macro,0.770062797071583
-LightGBM,28,f1_macro,0.7678261191764877
-LightGBM,29,f1_macro,0.7645072808556281
-LightGBM,30,f1_macro,0.7717659125010876
-LightGBM,31,f1_macro,0.7749640061961349
-LightGBM,32,f1_macro,0.7448430536037958
-LightGBM,33,f1_macro,0.7606412586957148
-LightGBM,34,f1_macro,0.7569527029515088
-LightGBM,35,f1_macro,0.7498062775379414
-LightGBM,36,f1_macro,0.7622522650402176
-LightGBM,37,f1_macro,0.7709589143451685
-LightGBM,38,f1_macro,0.7704158674733808
-LightGBM,39,f1_macro,0.7516242362723422
-LightGBM,40,f1_macro,0.7687436133558159
-LightGBM,41,f1_macro,0.7563981427608746
-LightGBM,42,f1_macro,0.7662985972810866
-LightGBM,43,f1_macro,0.7606860065213289
-LightGBM,44,f1_macro,0.7714023545273678
-LightGBM,45,f1_macro,0.767875235699941
-LightGBM,46,f1_macro,0.7722986088237302
-LightGBM,47,f1_macro,0.7684816519358975
-LightGBM,48,f1_macro,0.7538837203028272
-LightGBM,49,f1_macro,0.7711165399454839
-LightGBM,0,accuracy,0.78875
-LightGBM,1,accuracy,0.775
-LightGBM,2,accuracy,0.7925
-LightGBM,3,accuracy,0.781875
-LightGBM,4,accuracy,0.778125
-LightGBM,5,accuracy,0.769375
-LightGBM,6,accuracy,0.77125
-LightGBM,7,accuracy,0.79375
-LightGBM,8,accuracy,0.786875
-LightGBM,9,accuracy,0.79125
-LightGBM,10,accuracy,0.781875
-LightGBM,11,accuracy,0.79
-LightGBM,12,accuracy,0.793125
-LightGBM,13,accuracy,0.790625
-LightGBM,14,accuracy,0.770625
-LightGBM,15,accuracy,0.809375
-LightGBM,16,accuracy,0.780625
-LightGBM,17,accuracy,0.769375
-LightGBM,18,accuracy,0.78625
-LightGBM,19,accuracy,0.793125
-LightGBM,20,accuracy,0.7925
-LightGBM,21,accuracy,0.779375
+Rede Neural (MLP),10,accuracy,0.766875
+Rede Neural (MLP),11,accuracy,0.75625
+Rede Neural (MLP),12,accuracy,0.78
+Rede Neural (MLP),13,accuracy,0.76375
+Rede Neural (MLP),14,accuracy,0.765625
+Rede Neural (MLP),15,accuracy,0.7775
+Rede Neural (MLP),16,accuracy,0.775
+Rede Neural (MLP),17,accuracy,0.774375
+Rede Neural (MLP),18,accuracy,0.77875
+Rede Neural (MLP),19,accuracy,0.770625
+Rede Neural (MLP),20,accuracy,0.7725
+Rede Neural (MLP),21,accuracy,0.795
+Rede Neural (MLP),22,accuracy,0.76125
+Rede Neural (MLP),23,accuracy,0.765625
+Rede Neural (MLP),24,accuracy,0.763125
+Rede Neural (MLP),25,accuracy,0.783125
+Rede Neural (MLP),26,accuracy,0.78
+Rede Neural (MLP),27,accuracy,0.77625
+Rede Neural (MLP),28,accuracy,0.75625
+Rede Neural (MLP),29,accuracy,0.754375
+Rede Neural (MLP),30,accuracy,0.76875
+Rede Neural (MLP),31,accuracy,0.78125
+Rede Neural (MLP),32,accuracy,0.75375
+Rede Neural (MLP),33,accuracy,0.778125
+Rede Neural (MLP),34,accuracy,0.77625
+Rede Neural (MLP),35,accuracy,0.785
+Rede Neural (MLP),36,accuracy,0.785625
+Rede Neural (MLP),37,accuracy,0.768125
+Rede Neural (MLP),38,accuracy,0.768125
+Rede Neural (MLP),39,accuracy,0.768125
+Rede Neural (MLP),40,accuracy,0.76
+Rede Neural (MLP),41,accuracy,0.773125
+Rede Neural (MLP),42,accuracy,0.780625
+Rede Neural (MLP),43,accuracy,0.783125
+Rede Neural (MLP),44,accuracy,0.77125
+Rede Neural (MLP),45,accuracy,0.76625
+Rede Neural (MLP),46,accuracy,0.784375
+Rede Neural (MLP),47,accuracy,0.775
+Rede Neural (MLP),48,accuracy,0.766875
+Rede Neural (MLP),49,accuracy,0.771875
+Rede Neural (MLP),0,balanced_accuracy,0.7503097189585044
+Rede Neural (MLP),1,balanced_accuracy,0.7616491079981262
+Rede Neural (MLP),2,balanced_accuracy,0.7442532431912373
+Rede Neural (MLP),3,balanced_accuracy,0.7627965014060886
+Rede Neural (MLP),4,balanced_accuracy,0.750027646916314
+Rede Neural (MLP),5,balanced_accuracy,0.7521564760026298
+Rede Neural (MLP),6,balanced_accuracy,0.7665344428096954
+Rede Neural (MLP),7,balanced_accuracy,0.7512091536020215
+Rede Neural (MLP),8,balanced_accuracy,0.7393609738766824
+Rede Neural (MLP),9,balanced_accuracy,0.7608685946294369
+Rede Neural (MLP),10,balanced_accuracy,0.746891670520213
+Rede Neural (MLP),11,balanced_accuracy,0.7301121682351118
+Rede Neural (MLP),12,balanced_accuracy,0.755827331237469
+Rede Neural (MLP),13,balanced_accuracy,0.7411852392261424
+Rede Neural (MLP),14,balanced_accuracy,0.7393359771123983
+Rede Neural (MLP),15,balanced_accuracy,0.7610287749812041
+Rede Neural (MLP),16,balanced_accuracy,0.7479915115108003
+Rede Neural (MLP),17,balanced_accuracy,0.7479989957296073
+Rede Neural (MLP),18,balanced_accuracy,0.7582443439647732
+Rede Neural (MLP),19,balanced_accuracy,0.7494966319539558
+Rede Neural (MLP),20,balanced_accuracy,0.7474729622604117
+Rede Neural (MLP),21,balanced_accuracy,0.7734901304206142
+Rede Neural (MLP),22,balanced_accuracy,0.7397499968900851
+Rede Neural (MLP),23,balanced_accuracy,0.7392465750245436
+Rede Neural (MLP),24,balanced_accuracy,0.7376976472005742
+Rede Neural (MLP),25,balanced_accuracy,0.7621848270937339
+Rede Neural (MLP),26,balanced_accuracy,0.7570512706573858
+Rede Neural (MLP),27,balanced_accuracy,0.7542885255493865
+Rede Neural (MLP),28,balanced_accuracy,0.7287087545498482
+Rede Neural (MLP),29,balanced_accuracy,0.7340747749291711
+Rede Neural (MLP),30,balanced_accuracy,0.7456896707655818
+Rede Neural (MLP),31,balanced_accuracy,0.764551678778656
+Rede Neural (MLP),32,balanced_accuracy,0.7288124463688471
+Rede Neural (MLP),33,balanced_accuracy,0.7539584247691523
+Rede Neural (MLP),34,balanced_accuracy,0.750499283738899
+Rede Neural (MLP),35,balanced_accuracy,0.7631992102589268
+Rede Neural (MLP),36,balanced_accuracy,0.7629158841674354
+Rede Neural (MLP),37,balanced_accuracy,0.741549592391217
+Rede Neural (MLP),38,balanced_accuracy,0.7473880659070755
+Rede Neural (MLP),39,balanced_accuracy,0.7486753962208772
+Rede Neural (MLP),40,balanced_accuracy,0.7404143859963698
+Rede Neural (MLP),41,balanced_accuracy,0.7468263480997388
+Rede Neural (MLP),42,balanced_accuracy,0.7600848932469918
+Rede Neural (MLP),43,balanced_accuracy,0.7611102223686905
+Rede Neural (MLP),44,balanced_accuracy,0.7482649244834376
+Rede Neural (MLP),45,balanced_accuracy,0.7491141286738452
+Rede Neural (MLP),46,balanced_accuracy,0.7592899437324176
+Rede Neural (MLP),47,balanced_accuracy,0.7507450268487407
+Rede Neural (MLP),48,balanced_accuracy,0.748810521815994
+Rede Neural (MLP),49,balanced_accuracy,0.7467701927742985
+Rede Neural (MLP),0,precision_macro,0.7506085591684873
+Rede Neural (MLP),1,precision_macro,0.7581987531404956
+Rede Neural (MLP),2,precision_macro,0.7470155212975307
+Rede Neural (MLP),3,precision_macro,0.770446215625485
+Rede Neural (MLP),4,precision_macro,0.7537426142580876
+Rede Neural (MLP),5,precision_macro,0.7568484470968102
+Rede Neural (MLP),6,precision_macro,0.762989645695894
+Rede Neural (MLP),7,precision_macro,0.7457684495005487
+Rede Neural (MLP),8,precision_macro,0.7474472791871137
+Rede Neural (MLP),9,precision_macro,0.7601206454224327
+Rede Neural (MLP),10,precision_macro,0.7517957274809035
+Rede Neural (MLP),11,precision_macro,0.7323667998337893
+Rede Neural (MLP),12,precision_macro,0.7581600865263232
+Rede Neural (MLP),13,precision_macro,0.7425679776182743
+Rede Neural (MLP),14,precision_macro,0.7465019781950658
+Rede Neural (MLP),15,precision_macro,0.7586618050506457
+Rede Neural (MLP),16,precision_macro,0.7596197690861672
+Rede Neural (MLP),17,precision_macro,0.7522919970597357
+Rede Neural (MLP),18,precision_macro,0.7576798283696446
+Rede Neural (MLP),19,precision_macro,0.7501952214452214
+Rede Neural (MLP),20,precision_macro,0.7540023613819432
+Rede Neural (MLP),21,precision_macro,0.7790172825347128
+Rede Neural (MLP),22,precision_macro,0.74244257170616
+Rede Neural (MLP),23,precision_macro,0.7455749824135396
+Rede Neural (MLP),24,precision_macro,0.7435211365693534
+Rede Neural (MLP),25,precision_macro,0.759806324341986
+Rede Neural (MLP),26,precision_macro,0.7571799128311223
+Rede Neural (MLP),27,precision_macro,0.7570583825630053
+Rede Neural (MLP),28,precision_macro,0.7273823134365729
+Rede Neural (MLP),29,precision_macro,0.7372151490831266
+Rede Neural (MLP),30,precision_macro,0.7474385870333723
+Rede Neural (MLP),31,precision_macro,0.7611026203348976
+Rede Neural (MLP),32,precision_macro,0.7329369456778522
+Rede Neural (MLP),33,precision_macro,0.7598291261224817
+Rede Neural (MLP),34,precision_macro,0.7603187504969524
+Rede Neural (MLP),35,precision_macro,0.762561916004021
+Rede Neural (MLP),36,precision_macro,0.7632280586718072
+Rede Neural (MLP),37,precision_macro,0.7480464034933123
+Rede Neural (MLP),38,precision_macro,0.7457962047457949
+Rede Neural (MLP),39,precision_macro,0.7517760933047686
+Rede Neural (MLP),40,precision_macro,0.734545605073992
+Rede Neural (MLP),41,precision_macro,0.7504798851749854
+Rede Neural (MLP),42,precision_macro,0.7621550593556496
+Rede Neural (MLP),43,precision_macro,0.7651998517374725
+Rede Neural (MLP),44,precision_macro,0.7487934766993096
+Rede Neural (MLP),45,precision_macro,0.7461793940086465
+Rede Neural (MLP),46,precision_macro,0.7634117733614516
+Rede Neural (MLP),47,precision_macro,0.7577556526519884
+Rede Neural (MLP),48,precision_macro,0.7517492798619575
+Rede Neural (MLP),49,precision_macro,0.7436496287916167
+Rede Neural (MLP),0,recall_macro,0.7503097189585044
+Rede Neural (MLP),1,recall_macro,0.7616491079981262
+Rede Neural (MLP),2,recall_macro,0.7442532431912373
+Rede Neural (MLP),3,recall_macro,0.7627965014060886
+Rede Neural (MLP),4,recall_macro,0.750027646916314
+Rede Neural (MLP),5,recall_macro,0.7521564760026298
+Rede Neural (MLP),6,recall_macro,0.7665344428096954
+Rede Neural (MLP),7,recall_macro,0.7512091536020215
+Rede Neural (MLP),8,recall_macro,0.7393609738766824
+Rede Neural (MLP),9,recall_macro,0.7608685946294369
+Rede Neural (MLP),10,recall_macro,0.746891670520213
+Rede Neural (MLP),11,recall_macro,0.7301121682351118
+Rede Neural (MLP),12,recall_macro,0.755827331237469
+Rede Neural (MLP),13,recall_macro,0.7411852392261424
+Rede Neural (MLP),14,recall_macro,0.7393359771123983
+Rede Neural (MLP),15,recall_macro,0.7610287749812041
+Rede Neural (MLP),16,recall_macro,0.7479915115108003
+Rede Neural (MLP),17,recall_macro,0.7479989957296073
+Rede Neural (MLP),18,recall_macro,0.7582443439647732
+Rede Neural (MLP),19,recall_macro,0.7494966319539558
+Rede Neural (MLP),20,recall_macro,0.7474729622604117
+Rede Neural (MLP),21,recall_macro,0.7734901304206142
+Rede Neural (MLP),22,recall_macro,0.7397499968900851
+Rede Neural (MLP),23,recall_macro,0.7392465750245436
+Rede Neural (MLP),24,recall_macro,0.7376976472005742
+Rede Neural (MLP),25,recall_macro,0.7621848270937339
+Rede Neural (MLP),26,recall_macro,0.7570512706573858
+Rede Neural (MLP),27,recall_macro,0.7542885255493865
+Rede Neural (MLP),28,recall_macro,0.7287087545498482
+Rede Neural (MLP),29,recall_macro,0.7340747749291711
+Rede Neural (MLP),30,recall_macro,0.7456896707655818
+Rede Neural (MLP),31,recall_macro,0.764551678778656
+Rede Neural (MLP),32,recall_macro,0.7288124463688471
+Rede Neural (MLP),33,recall_macro,0.7539584247691523
+Rede Neural (MLP),34,recall_macro,0.750499283738899
+Rede Neural (MLP),35,recall_macro,0.7631992102589268
+Rede Neural (MLP),36,recall_macro,0.7629158841674354
+Rede Neural (MLP),37,recall_macro,0.741549592391217
+Rede Neural (MLP),38,recall_macro,0.7473880659070755
+Rede Neural (MLP),39,recall_macro,0.7486753962208772
+Rede Neural (MLP),40,recall_macro,0.7404143859963698
+Rede Neural (MLP),41,recall_macro,0.7468263480997388
+Rede Neural (MLP),42,recall_macro,0.7600848932469918
+Rede Neural (MLP),43,recall_macro,0.7611102223686905
+Rede Neural (MLP),44,recall_macro,0.7482649244834376
+Rede Neural (MLP),45,recall_macro,0.7491141286738452
+Rede Neural (MLP),46,recall_macro,0.7592899437324176
+Rede Neural (MLP),47,recall_macro,0.7507450268487407
+Rede Neural (MLP),48,recall_macro,0.748810521815994
+Rede Neural (MLP),49,recall_macro,0.7467701927742985
+LightGBM,0,f1_macro,0.7694477344989614
+LightGBM,1,f1_macro,0.768824413984112
+LightGBM,2,f1_macro,0.7501277264256223
+LightGBM,3,f1_macro,0.7726528699081134
+LightGBM,4,f1_macro,0.760236627367333
+LightGBM,5,f1_macro,0.777384754485928
+LightGBM,6,f1_macro,0.7692438810855745
+LightGBM,7,f1_macro,0.7625223289710686
+LightGBM,8,f1_macro,0.752224223237064
+LightGBM,9,f1_macro,0.7605144865978136
+LightGBM,10,f1_macro,0.765339427651802
+LightGBM,11,f1_macro,0.7739083237416418
+LightGBM,12,f1_macro,0.7743687377635762
+LightGBM,13,f1_macro,0.7707548426152617
+LightGBM,14,f1_macro,0.7655812043315665
+LightGBM,15,f1_macro,0.7671512422146156
+LightGBM,16,f1_macro,0.7634849527832989
+LightGBM,17,f1_macro,0.7737784401357072
+LightGBM,18,f1_macro,0.763579216641724
+LightGBM,19,f1_macro,0.7606437534200168
+LightGBM,20,f1_macro,0.7610010833787115
+LightGBM,21,f1_macro,0.7851854623309259
+LightGBM,22,f1_macro,0.7620876113598776
+LightGBM,23,f1_macro,0.7511446677888329
+LightGBM,24,f1_macro,0.758726763484816
+LightGBM,25,f1_macro,0.7729264490319903
+LightGBM,26,f1_macro,0.7712411896616809
+LightGBM,27,f1_macro,0.7699737658368555
+LightGBM,28,f1_macro,0.7667908817043482
+LightGBM,29,f1_macro,0.7562271330091288
+LightGBM,30,f1_macro,0.7617355911745832
+LightGBM,31,f1_macro,0.7822427428662507
+LightGBM,32,f1_macro,0.7538990729405008
+LightGBM,33,f1_macro,0.7877156227883755
+LightGBM,34,f1_macro,0.7656197332085487
+LightGBM,35,f1_macro,0.7642555207563024
+LightGBM,36,f1_macro,0.7666867830670354
+LightGBM,37,f1_macro,0.7736761668230474
+LightGBM,38,f1_macro,0.7711169291240103
+LightGBM,39,f1_macro,0.7506393602595256
+LightGBM,40,f1_macro,0.7669615357785418
+LightGBM,41,f1_macro,0.7742384709806538
+LightGBM,42,f1_macro,0.7480857797374664
+LightGBM,43,f1_macro,0.759575078141376
+LightGBM,44,f1_macro,0.7577139282739759
+LightGBM,45,f1_macro,0.7654145922939273
+LightGBM,46,f1_macro,0.7741061056718392
+LightGBM,47,f1_macro,0.7603921397638616
+LightGBM,48,f1_macro,0.7595607032023018
+LightGBM,49,f1_macro,0.756287446148805
+LightGBM,0,accuracy,0.79125
+LightGBM,1,accuracy,0.786875
+LightGBM,2,accuracy,0.771875
+LightGBM,3,accuracy,0.793125
+LightGBM,4,accuracy,0.780625
+LightGBM,5,accuracy,0.79875
+LightGBM,6,accuracy,0.78875
+LightGBM,7,accuracy,0.783125
+LightGBM,8,accuracy,0.77375
+LightGBM,9,accuracy,0.778125
+LightGBM,10,accuracy,0.784375
+LightGBM,11,accuracy,0.7925
+LightGBM,12,accuracy,0.795
+LightGBM,13,accuracy,0.791875
+LightGBM,14,accuracy,0.7875
+LightGBM,15,accuracy,0.788125
+LightGBM,16,accuracy,0.7825
+LightGBM,17,accuracy,0.794375
+LightGBM,18,accuracy,0.781875
+LightGBM,19,accuracy,0.78125
+LightGBM,20,accuracy,0.78125
+LightGBM,21,accuracy,0.804375
 LightGBM,22,accuracy,0.783125
-LightGBM,23,accuracy,0.778125
-LightGBM,24,accuracy,0.785625
-LightGBM,25,accuracy,0.784375
-LightGBM,26,accuracy,0.78375
-LightGBM,27,accuracy,0.786875
-LightGBM,28,accuracy,0.789375
-LightGBM,29,accuracy,0.784375
-LightGBM,30,accuracy,0.79125
-LightGBM,31,accuracy,0.795
-LightGBM,32,accuracy,0.76625
-LightGBM,33,accuracy,0.78125
-LightGBM,34,accuracy,0.779375
-LightGBM,35,accuracy,0.773125
-LightGBM,36,accuracy,0.780625
-LightGBM,37,accuracy,0.788125
-LightGBM,38,accuracy,0.79125
-LightGBM,39,accuracy,0.775
-LightGBM,40,accuracy,0.785
-LightGBM,41,accuracy,0.77375
-LightGBM,42,accuracy,0.79
-LightGBM,43,accuracy,0.785
-LightGBM,44,accuracy,0.7925
-LightGBM,45,accuracy,0.789375
-LightGBM,46,accuracy,0.79
-LightGBM,47,accuracy,0.788125
-LightGBM,48,accuracy,0.77625
-LightGBM,49,accuracy,0.78875
-LightGBM,0,balanced_accuracy,0.7674428928022046
-LightGBM,1,balanced_accuracy,0.7579047561472851
-LightGBM,2,balanced_accuracy,0.7703388775477039
-LightGBM,3,balanced_accuracy,0.7578411164126106
-LightGBM,4,balanced_accuracy,0.7547736887279365
-LightGBM,5,balanced_accuracy,0.7476932710788986
-LightGBM,6,balanced_accuracy,0.7527935626139769
-LightGBM,7,balanced_accuracy,0.7724044869950505
-LightGBM,8,balanced_accuracy,0.7649828856854786
-LightGBM,9,balanced_accuracy,0.7691894569704121
-LightGBM,10,balanced_accuracy,0.7591845817250675
-LightGBM,11,balanced_accuracy,0.7667499219379255
-LightGBM,12,balanced_accuracy,0.7721994748664305
-LightGBM,13,balanced_accuracy,0.7687267050541631
-LightGBM,14,balanced_accuracy,0.7505878350454733
-LightGBM,15,balanced_accuracy,0.788571482498608
-LightGBM,16,balanced_accuracy,0.7585819986125757
-LightGBM,17,balanced_accuracy,0.7486431552713161
-LightGBM,18,balanced_accuracy,0.763263660951125
-LightGBM,19,balanced_accuracy,0.7741178509979914
-LightGBM,20,balanced_accuracy,0.7694604720515652
-LightGBM,21,balanced_accuracy,0.7550623970541439
-LightGBM,22,balanced_accuracy,0.76240407488671
-LightGBM,23,balanced_accuracy,0.7542488003810182
-LightGBM,24,balanced_accuracy,0.767882225034843
-LightGBM,25,balanced_accuracy,0.7601941243641648
-LightGBM,26,balanced_accuracy,0.7668664003744904
-LightGBM,27,balanced_accuracy,0.7675090300475943
-LightGBM,28,balanced_accuracy,0.7654430083014802
-LightGBM,29,balanced_accuracy,0.7657279354807011
-LightGBM,30,balanced_accuracy,0.7685203482976762
-LightGBM,31,balanced_accuracy,0.7742272312831653
-LightGBM,32,balanced_accuracy,0.7430564059705279
-LightGBM,33,balanced_accuracy,0.7590006943072211
-LightGBM,34,balanced_accuracy,0.757241297114727
-LightGBM,35,balanced_accuracy,0.7481365783339468
-LightGBM,36,balanced_accuracy,0.7572572885988591
-LightGBM,37,balanced_accuracy,0.7705868550831173
-LightGBM,38,balanced_accuracy,0.7695536380606763
-LightGBM,39,balanced_accuracy,0.7488668145584878
-LightGBM,40,balanced_accuracy,0.7698812085350547
-LightGBM,41,balanced_accuracy,0.7563502686573619
-LightGBM,42,balanced_accuracy,0.7641597165922873
-LightGBM,43,balanced_accuracy,0.7583430435909793
-LightGBM,44,balanced_accuracy,0.7695949187577192
-LightGBM,45,balanced_accuracy,0.7643702125584717
-LightGBM,46,balanced_accuracy,0.773193481968995
-LightGBM,47,balanced_accuracy,0.7675495887635782
-LightGBM,48,balanced_accuracy,0.7512931508650679
-LightGBM,49,balanced_accuracy,0.7713680559655361
-LightGBM,0,precision_macro,0.7700419379110095
-LightGBM,1,precision_macro,0.7591342833656743
-LightGBM,2,precision_macro,0.7740588235103474
-LightGBM,3,precision_macro,0.7670577523976528
-LightGBM,4,precision_macro,0.7543687127797893
-LightGBM,5,precision_macro,0.7479758073900116
-LightGBM,6,precision_macro,0.7505741655734015
-LightGBM,7,precision_macro,0.7747040097873972
-LightGBM,8,precision_macro,0.7705857779265092
-LightGBM,9,precision_macro,0.7770921362178457
-LightGBM,10,precision_macro,0.762814151664405
-LightGBM,11,precision_macro,0.7721015356052976
-LightGBM,12,precision_macro,0.7740164221425725
-LightGBM,13,precision_macro,0.7713551874748913
-LightGBM,14,precision_macro,0.7582828686261118
-LightGBM,15,precision_macro,0.7914245972081637
-LightGBM,16,precision_macro,0.7615904719477761
-LightGBM,17,precision_macro,0.7524696799300676
-LightGBM,18,precision_macro,0.7689332217527733
-LightGBM,19,precision_macro,0.7757963905579581
-LightGBM,20,precision_macro,0.7752322768527289
-LightGBM,21,precision_macro,0.7603220708388729
-LightGBM,22,precision_macro,0.7662389604537878
-LightGBM,23,precision_macro,0.7580625193150594
-LightGBM,24,precision_macro,0.7652473111887659
-LightGBM,25,precision_macro,0.7684413082789526
-LightGBM,26,precision_macro,0.7643204835119418
-LightGBM,27,precision_macro,0.7737622572185383
-LightGBM,28,precision_macro,0.7711782023844612
-LightGBM,29,precision_macro,0.76363405032977
-LightGBM,30,precision_macro,0.7767648241360896
-LightGBM,31,precision_macro,0.7768440665854691
-LightGBM,32,precision_macro,0.7470009550431563
-LightGBM,33,precision_macro,0.7628319318765968
-LightGBM,34,precision_macro,0.7568308961332529
-LightGBM,35,precision_macro,0.7517988130738563
-LightGBM,36,precision_macro,0.769849132894419
-LightGBM,37,precision_macro,0.7720693695703835
-LightGBM,38,precision_macro,0.7717436189513234
-LightGBM,39,precision_macro,0.7549359964027709
-LightGBM,40,precision_macro,0.7676751114487768
-LightGBM,41,precision_macro,0.7567847836478281
-LightGBM,42,precision_macro,0.7702318851494551
-LightGBM,43,precision_macro,0.763441490260042
-LightGBM,44,precision_macro,0.7734484430490655
-LightGBM,45,precision_macro,0.7730532881707294
-LightGBM,46,precision_macro,0.7715466690145777
-LightGBM,47,precision_macro,0.7699653054272619
-LightGBM,48,precision_macro,0.7573490513994059
-LightGBM,49,precision_macro,0.7711221392137424
-LightGBM,0,recall_macro,0.7674428928022046
-LightGBM,1,recall_macro,0.7579047561472851
-LightGBM,2,recall_macro,0.7703388775477039
-LightGBM,3,recall_macro,0.7578411164126106
-LightGBM,4,recall_macro,0.7547736887279365
-LightGBM,5,recall_macro,0.7476932710788986
-LightGBM,6,recall_macro,0.7527935626139769
-LightGBM,7,recall_macro,0.7724044869950505
-LightGBM,8,recall_macro,0.7649828856854786
-LightGBM,9,recall_macro,0.7691894569704121
-LightGBM,10,recall_macro,0.7591845817250675
-LightGBM,11,recall_macro,0.7667499219379255
-LightGBM,12,recall_macro,0.7721994748664305
-LightGBM,13,recall_macro,0.7687267050541631
-LightGBM,14,recall_macro,0.7505878350454733
-LightGBM,15,recall_macro,0.788571482498608
-LightGBM,16,recall_macro,0.7585819986125757
-LightGBM,17,recall_macro,0.7486431552713161
-LightGBM,18,recall_macro,0.763263660951125
-LightGBM,19,recall_macro,0.7741178509979914
-LightGBM,20,recall_macro,0.7694604720515652
-LightGBM,21,recall_macro,0.7550623970541439
-LightGBM,22,recall_macro,0.76240407488671
-LightGBM,23,recall_macro,0.7542488003810182
-LightGBM,24,recall_macro,0.767882225034843
-LightGBM,25,recall_macro,0.7601941243641648
-LightGBM,26,recall_macro,0.7668664003744904
-LightGBM,27,recall_macro,0.7675090300475943
-LightGBM,28,recall_macro,0.7654430083014802
-LightGBM,29,recall_macro,0.7657279354807011
-LightGBM,30,recall_macro,0.7685203482976762
-LightGBM,31,recall_macro,0.7742272312831653
-LightGBM,32,recall_macro,0.7430564059705279
-LightGBM,33,recall_macro,0.7590006943072211
-LightGBM,34,recall_macro,0.757241297114727
-LightGBM,35,recall_macro,0.7481365783339468
-LightGBM,36,recall_macro,0.7572572885988591
-LightGBM,37,recall_macro,0.7705868550831173
-LightGBM,38,recall_macro,0.7695536380606763
-LightGBM,39,recall_macro,0.7488668145584878
-LightGBM,40,recall_macro,0.7698812085350547
-LightGBM,41,recall_macro,0.7563502686573619
-LightGBM,42,recall_macro,0.7641597165922873
-LightGBM,43,recall_macro,0.7583430435909793
-LightGBM,44,recall_macro,0.7695949187577192
-LightGBM,45,recall_macro,0.7643702125584717
-LightGBM,46,recall_macro,0.773193481968995
-LightGBM,47,recall_macro,0.7675495887635782
-LightGBM,48,recall_macro,0.7512931508650679
-LightGBM,49,recall_macro,0.7713680559655361
-SVM (RBF),0,f1_macro,0.750150700051894
-SVM (RBF),1,f1_macro,0.7506245495644928
-SVM (RBF),2,f1_macro,0.7685913790770695
-SVM (RBF),3,f1_macro,0.7575851630937667
-SVM (RBF),4,f1_macro,0.7674112778369997
-SVM (RBF),5,f1_macro,0.747656604988826
-SVM (RBF),6,f1_macro,0.751947802330647
-SVM (RBF),7,f1_macro,0.7648332123095923
-SVM (RBF),8,f1_macro,0.7618065314480033
-SVM (RBF),9,f1_macro,0.7639216134187261
-SVM (RBF),10,f1_macro,0.7546059653213212
-SVM (RBF),11,f1_macro,0.7543159079583747
-SVM (RBF),12,f1_macro,0.7691724883463015
-SVM (RBF),13,f1_macro,0.7503995075843807
-SVM (RBF),14,f1_macro,0.7505227202516359
-SVM (RBF),15,f1_macro,0.750254766645408
-SVM (RBF),16,f1_macro,0.7474056287462476
-SVM (RBF),17,f1_macro,0.7550482919034719
-SVM (RBF),18,f1_macro,0.7683670148917474
-SVM (RBF),19,f1_macro,0.76286973704537
-SVM (RBF),20,f1_macro,0.7643181664727189
-SVM (RBF),21,f1_macro,0.7485248513100086
-SVM (RBF),22,f1_macro,0.755124565059625
-SVM (RBF),23,f1_macro,0.7522567411920972
-SVM (RBF),24,f1_macro,0.7666673663274611
-SVM (RBF),25,f1_macro,0.7371129063139785
-SVM (RBF),26,f1_macro,0.7577218737245405
-SVM (RBF),27,f1_macro,0.7537543925491134
-SVM (RBF),28,f1_macro,0.7705560037268782
-SVM (RBF),29,f1_macro,0.7494382396724248
-SVM (RBF),30,f1_macro,0.757273354181321
-SVM (RBF),31,f1_macro,0.76157375193622
-SVM (RBF),32,f1_macro,0.7542080040957954
-SVM (RBF),33,f1_macro,0.7487584293050573
-SVM (RBF),34,f1_macro,0.7528440559347976
-SVM (RBF),35,f1_macro,0.7441428683432026
-SVM (RBF),36,f1_macro,0.7521704111267181
-SVM (RBF),37,f1_macro,0.7558539963765918
-SVM (RBF),38,f1_macro,0.7563641586070837
-SVM (RBF),39,f1_macro,0.7608288018041615
-SVM (RBF),40,f1_macro,0.7476582819745478
-SVM (RBF),41,f1_macro,0.7343618898115087
-SVM (RBF),42,f1_macro,0.7708342358339726
-SVM (RBF),43,f1_macro,0.754426021629333
-SVM (RBF),44,f1_macro,0.7776056253363839
-SVM (RBF),45,f1_macro,0.7417995899610641
-SVM (RBF),46,f1_macro,0.7553894538826484
-SVM (RBF),47,f1_macro,0.7610539568778905
-SVM (RBF),48,f1_macro,0.7491876701811738
-SVM (RBF),49,f1_macro,0.7552015198270389
-SVM (RBF),0,accuracy,0.77375
-SVM (RBF),1,accuracy,0.768125
-SVM (RBF),2,accuracy,0.789375
-SVM (RBF),3,accuracy,0.778125
-SVM (RBF),4,accuracy,0.785625
-SVM (RBF),5,accuracy,0.768125
-SVM (RBF),6,accuracy,0.771875
-SVM (RBF),7,accuracy,0.785625
-SVM (RBF),8,accuracy,0.78125
-SVM (RBF),9,accuracy,0.78375
-SVM (RBF),10,accuracy,0.775625
-SVM (RBF),11,accuracy,0.774375
-SVM (RBF),12,accuracy,0.789375
-SVM (RBF),13,accuracy,0.775
-SVM (RBF),14,accuracy,0.768125
-SVM (RBF),15,accuracy,0.770625
+LightGBM,23,accuracy,0.77375
+LightGBM,24,accuracy,0.77625
+LightGBM,25,accuracy,0.7925
+LightGBM,26,accuracy,0.790625
+LightGBM,27,accuracy,0.78875
+LightGBM,28,accuracy,0.788125
+LightGBM,29,accuracy,0.77625
+LightGBM,30,accuracy,0.7825
+LightGBM,31,accuracy,0.799375
+LightGBM,32,accuracy,0.775625
+LightGBM,33,accuracy,0.8075
+LightGBM,34,accuracy,0.785625
+LightGBM,35,accuracy,0.788125
+LightGBM,36,accuracy,0.7875
+LightGBM,37,accuracy,0.791875
+LightGBM,38,accuracy,0.78875
+LightGBM,39,accuracy,0.768125
+LightGBM,40,accuracy,0.78625
+LightGBM,41,accuracy,0.795625
+LightGBM,42,accuracy,0.76875
+LightGBM,43,accuracy,0.7825
+LightGBM,44,accuracy,0.7775
+LightGBM,45,accuracy,0.78375
+LightGBM,46,accuracy,0.794375
+LightGBM,47,accuracy,0.781875
+LightGBM,48,accuracy,0.77875
+LightGBM,49,accuracy,0.781875
+LightGBM,0,balanced_accuracy,0.7679155223993281
+LightGBM,1,balanced_accuracy,0.7691151955854092
+LightGBM,2,balanced_accuracy,0.7496501036421651
+LightGBM,3,balanced_accuracy,0.7707073810743712
+LightGBM,4,balanced_accuracy,0.7558254153014482
+LightGBM,5,balanced_accuracy,0.7745116180490674
+LightGBM,6,balanced_accuracy,0.7667406069754821
+LightGBM,7,balanced_accuracy,0.7634942721653742
+LightGBM,8,balanced_accuracy,0.7498166364488001
+LightGBM,9,balanced_accuracy,0.7610668536608163
+LightGBM,10,balanced_accuracy,0.7628083780816574
+LightGBM,11,balanced_accuracy,0.7741630506399291
+LightGBM,12,balanced_accuracy,0.7727468417202669
+LightGBM,13,balanced_accuracy,0.7694727346213143
+LightGBM,14,balanced_accuracy,0.7640796555078005
+LightGBM,15,balanced_accuracy,0.7671459259364117
+LightGBM,16,balanced_accuracy,0.7604415987352813
+LightGBM,17,balanced_accuracy,0.771554619384587
+LightGBM,18,balanced_accuracy,0.7643394310815915
+LightGBM,19,balanced_accuracy,0.758879867060081
+LightGBM,20,balanced_accuracy,0.7586697282699307
+LightGBM,21,balanced_accuracy,0.7864036482678141
+LightGBM,22,balanced_accuracy,0.7607879834482741
+LightGBM,23,balanced_accuracy,0.7491699940215846
+LightGBM,24,balanced_accuracy,0.7563890576616381
+LightGBM,25,balanced_accuracy,0.7717125278005845
+LightGBM,26,balanced_accuracy,0.7699655191024772
+LightGBM,27,balanced_accuracy,0.7686218872389221
+LightGBM,28,balanced_accuracy,0.7665120839624909
+LightGBM,29,balanced_accuracy,0.7536990356436319
+LightGBM,30,balanced_accuracy,0.7601184139746893
+LightGBM,31,balanced_accuracy,0.7853595867951795
+LightGBM,32,balanced_accuracy,0.7493954576782207
+LightGBM,33,balanced_accuracy,0.7851043909249864
+LightGBM,34,balanced_accuracy,0.7624356197057093
+LightGBM,35,balanced_accuracy,0.7650120285697208
+LightGBM,36,balanced_accuracy,0.7638734999588462
+LightGBM,37,balanced_accuracy,0.7691598539379307
+LightGBM,38,balanced_accuracy,0.7715846260990038
+LightGBM,39,balanced_accuracy,0.7488652850707376
+LightGBM,40,balanced_accuracy,0.7673977512590873
+LightGBM,41,balanced_accuracy,0.771354710824889
+LightGBM,42,balanced_accuracy,0.7481040975670699
+LightGBM,43,balanced_accuracy,0.7576278629026927
+LightGBM,44,balanced_accuracy,0.7568769611833172
+LightGBM,45,balanced_accuracy,0.7645316014394962
+LightGBM,46,balanced_accuracy,0.7700001405114962
+LightGBM,47,balanced_accuracy,0.7564429871783391
+LightGBM,48,balanced_accuracy,0.7592682637821104
+LightGBM,49,balanced_accuracy,0.7559674665922909
+LightGBM,0,precision_macro,0.7717786022686558
+LightGBM,1,precision_macro,0.769233890052976
+LightGBM,2,precision_macro,0.7506168649073669
+LightGBM,3,precision_macro,0.7748594682920903
+LightGBM,4,precision_macro,0.7674862880732369
+LightGBM,5,precision_macro,0.7806327157189356
+LightGBM,6,precision_macro,0.7728451567346912
+LightGBM,7,precision_macro,0.7616836122067414
+LightGBM,8,precision_macro,0.7549366943925849
+LightGBM,9,precision_macro,0.7601504096669139
+LightGBM,10,precision_macro,0.7688868090215708
+LightGBM,11,precision_macro,0.7748210005869084
+LightGBM,12,precision_macro,0.7763394155048521
+LightGBM,13,precision_macro,0.7721890788066068
+LightGBM,14,precision_macro,0.7690080392048897
+LightGBM,15,precision_macro,0.7676806428819464
+LightGBM,16,precision_macro,0.7670589467539748
+LightGBM,17,precision_macro,0.7763650634354238
+LightGBM,18,precision_macro,0.7632204766155389
+LightGBM,19,precision_macro,0.762837524148396
+LightGBM,20,precision_macro,0.7643057981485373
+LightGBM,21,precision_macro,0.7841646259881456
+LightGBM,22,precision_macro,0.7638469383654395
+LightGBM,23,precision_macro,0.7537599844456186
+LightGBM,24,precision_macro,0.7613836577450512
+LightGBM,25,precision_macro,0.7743376730079289
+LightGBM,26,precision_macro,0.7739222365313219
+LightGBM,27,precision_macro,0.7715018102719974
+LightGBM,28,precision_macro,0.7675975718182657
+LightGBM,29,precision_macro,0.7590697837280672
+LightGBM,30,precision_macro,0.763631337453281
+LightGBM,31,precision_macro,0.7795260154570836
+LightGBM,32,precision_macro,0.7611215309141409
+LightGBM,33,precision_macro,0.7921035165674861
+LightGBM,34,precision_macro,0.7693282529620074
+LightGBM,35,precision_macro,0.7636918720241295
+LightGBM,36,precision_macro,0.7701922507557766
+LightGBM,37,precision_macro,0.7811844118992025
+LightGBM,38,precision_macro,0.7708108239291348
+LightGBM,39,precision_macro,0.7529866354066619
+LightGBM,40,precision_macro,0.7665612907151962
+LightGBM,41,precision_macro,0.7776065011847632
+LightGBM,42,precision_macro,0.7481527589943149
+LightGBM,43,precision_macro,0.761860999939448
+LightGBM,44,precision_macro,0.7588450375983522
+LightGBM,45,precision_macro,0.7663954040181213
+LightGBM,46,precision_macro,0.7807801551084032
+LightGBM,47,precision_macro,0.76618354608859
+LightGBM,48,precision_macro,0.7598974191027255
+LightGBM,49,precision_macro,0.7579322084292497
+LightGBM,0,recall_macro,0.7679155223993281
+LightGBM,1,recall_macro,0.7691151955854092
+LightGBM,2,recall_macro,0.7496501036421651
+LightGBM,3,recall_macro,0.7707073810743712
+LightGBM,4,recall_macro,0.7558254153014482
+LightGBM,5,recall_macro,0.7745116180490674
+LightGBM,6,recall_macro,0.7667406069754821
+LightGBM,7,recall_macro,0.7634942721653742
+LightGBM,8,recall_macro,0.7498166364488001
+LightGBM,9,recall_macro,0.7610668536608163
+LightGBM,10,recall_macro,0.7628083780816574
+LightGBM,11,recall_macro,0.7741630506399291
+LightGBM,12,recall_macro,0.7727468417202669
+LightGBM,13,recall_macro,0.7694727346213143
+LightGBM,14,recall_macro,0.7640796555078005
+LightGBM,15,recall_macro,0.7671459259364117
+LightGBM,16,recall_macro,0.7604415987352813
+LightGBM,17,recall_macro,0.771554619384587
+LightGBM,18,recall_macro,0.7643394310815915
+LightGBM,19,recall_macro,0.758879867060081
+LightGBM,20,recall_macro,0.7586697282699307
+LightGBM,21,recall_macro,0.7864036482678141
+LightGBM,22,recall_macro,0.7607879834482741
+LightGBM,23,recall_macro,0.7491699940215846
+LightGBM,24,recall_macro,0.7563890576616381
+LightGBM,25,recall_macro,0.7717125278005845
+LightGBM,26,recall_macro,0.7699655191024772
+LightGBM,27,recall_macro,0.7686218872389221
+LightGBM,28,recall_macro,0.7665120839624909
+LightGBM,29,recall_macro,0.7536990356436319
+LightGBM,30,recall_macro,0.7601184139746893
+LightGBM,31,recall_macro,0.7853595867951795
+LightGBM,32,recall_macro,0.7493954576782207
+LightGBM,33,recall_macro,0.7851043909249864
+LightGBM,34,recall_macro,0.7624356197057093
+LightGBM,35,recall_macro,0.7650120285697208
+LightGBM,36,recall_macro,0.7638734999588462
+LightGBM,37,recall_macro,0.7691598539379307
+LightGBM,38,recall_macro,0.7715846260990038
+LightGBM,39,recall_macro,0.7488652850707376
+LightGBM,40,recall_macro,0.7673977512590873
+LightGBM,41,recall_macro,0.771354710824889
+LightGBM,42,recall_macro,0.7481040975670699
+LightGBM,43,recall_macro,0.7576278629026927
+LightGBM,44,recall_macro,0.7568769611833172
+LightGBM,45,recall_macro,0.7645316014394962
+LightGBM,46,recall_macro,0.7700001405114962
+LightGBM,47,recall_macro,0.7564429871783391
+LightGBM,48,recall_macro,0.7592682637821104
+LightGBM,49,recall_macro,0.7559674665922909
+SVM (RBF),0,f1_macro,0.7559514917254495
+SVM (RBF),1,f1_macro,0.7535903076677826
+SVM (RBF),2,f1_macro,0.7512375781997581
+SVM (RBF),3,f1_macro,0.7502148406172003
+SVM (RBF),4,f1_macro,0.7728932612142208
+SVM (RBF),5,f1_macro,0.7684157392788581
+SVM (RBF),6,f1_macro,0.7642939993610589
+SVM (RBF),7,f1_macro,0.7563897827369874
+SVM (RBF),8,f1_macro,0.7534507729573536
+SVM (RBF),9,f1_macro,0.7588429248747808
+SVM (RBF),10,f1_macro,0.755511129137419
+SVM (RBF),11,f1_macro,0.7647528509658973
+SVM (RBF),12,f1_macro,0.764472748169204
+SVM (RBF),13,f1_macro,0.7387745340980385
+SVM (RBF),14,f1_macro,0.7498037709637959
+SVM (RBF),15,f1_macro,0.7664245001562032
+SVM (RBF),16,f1_macro,0.7493242949531023
+SVM (RBF),17,f1_macro,0.762680755718106
+SVM (RBF),18,f1_macro,0.7635176789537261
+SVM (RBF),19,f1_macro,0.7414994182245511
+SVM (RBF),20,f1_macro,0.7481094882044813
+SVM (RBF),21,f1_macro,0.7850106189726456
+SVM (RBF),22,f1_macro,0.7606733774515073
+SVM (RBF),23,f1_macro,0.7601453592363162
+SVM (RBF),24,f1_macro,0.7385244949724652
+SVM (RBF),25,f1_macro,0.774267613183302
+SVM (RBF),26,f1_macro,0.7694066060808987
+SVM (RBF),27,f1_macro,0.7571935488987588
+SVM (RBF),28,f1_macro,0.7598730491302547
+SVM (RBF),29,f1_macro,0.7355738899294559
+SVM (RBF),30,f1_macro,0.7553239102513696
+SVM (RBF),31,f1_macro,0.7588300216511421
+SVM (RBF),32,f1_macro,0.7434850279151963
+SVM (RBF),33,f1_macro,0.7716408790652483
+SVM (RBF),34,f1_macro,0.7696855286638505
+SVM (RBF),35,f1_macro,0.7557221188692088
+SVM (RBF),36,f1_macro,0.7498687633555159
+SVM (RBF),37,f1_macro,0.7590108014261259
+SVM (RBF),38,f1_macro,0.7683774511030451
+SVM (RBF),39,f1_macro,0.7577931198965491
+SVM (RBF),40,f1_macro,0.7500780792839179
+SVM (RBF),41,f1_macro,0.7724887086945424
+SVM (RBF),42,f1_macro,0.7603707096794654
+SVM (RBF),43,f1_macro,0.749305146278048
+SVM (RBF),44,f1_macro,0.7616279247501375
+SVM (RBF),45,f1_macro,0.7491852641158696
+SVM (RBF),46,f1_macro,0.7594738245903814
+SVM (RBF),47,f1_macro,0.7680458727266462
+SVM (RBF),48,f1_macro,0.7431921344850878
+SVM (RBF),49,f1_macro,0.7679507313364298
+SVM (RBF),0,accuracy,0.7775
+SVM (RBF),1,accuracy,0.773125
+SVM (RBF),2,accuracy,0.773125
+SVM (RBF),3,accuracy,0.7725
+SVM (RBF),4,accuracy,0.793125
+SVM (RBF),5,accuracy,0.789375
+SVM (RBF),6,accuracy,0.784375
+SVM (RBF),7,accuracy,0.77875
+SVM (RBF),8,accuracy,0.77625
+SVM (RBF),9,accuracy,0.77375
+SVM (RBF),10,accuracy,0.774375
+SVM (RBF),11,accuracy,0.788125
+SVM (RBF),12,accuracy,0.785625
+SVM (RBF),13,accuracy,0.759375
+SVM (RBF),14,accuracy,0.77
+SVM (RBF),15,accuracy,0.7825
 SVM (RBF),16,accuracy,0.771875
-SVM (RBF),17,accuracy,0.775
-SVM (RBF),18,accuracy,0.7875
-SVM (RBF),19,accuracy,0.783125
-SVM (RBF),20,accuracy,0.783125
-SVM (RBF),21,accuracy,0.77
-SVM (RBF),22,accuracy,0.77625
-SVM (RBF),23,accuracy,0.77375
-SVM (RBF),24,accuracy,0.785625
-SVM (RBF),25,accuracy,0.76125
-SVM (RBF),26,accuracy,0.775625
-SVM (RBF),27,accuracy,0.775
-SVM (RBF),28,accuracy,0.793125
-SVM (RBF),29,accuracy,0.7675
-SVM (RBF),30,accuracy,0.77875
+SVM (RBF),17,accuracy,0.785625
+SVM (RBF),18,accuracy,0.784375
+SVM (RBF),19,accuracy,0.761875
+SVM (RBF),20,accuracy,0.770625
+SVM (RBF),21,accuracy,0.801875
+SVM (RBF),22,accuracy,0.779375
+SVM (RBF),23,accuracy,0.783125
+SVM (RBF),24,accuracy,0.76125
+SVM (RBF),25,accuracy,0.795625
+SVM (RBF),26,accuracy,0.788125
+SVM (RBF),27,accuracy,0.779375
+SVM (RBF),28,accuracy,0.78125
+SVM (RBF),29,accuracy,0.75375
+SVM (RBF),30,accuracy,0.77625
 SVM (RBF),31,accuracy,0.780625
-SVM (RBF),32,accuracy,0.774375
-SVM (RBF),33,accuracy,0.7725
-SVM (RBF),34,accuracy,0.773125
-SVM (RBF),35,accuracy,0.76625
-SVM (RBF),36,accuracy,0.7725
-SVM (RBF),37,accuracy,0.775
-SVM (RBF),38,accuracy,0.7775
-SVM (RBF),39,accuracy,0.783125
-SVM (RBF),40,accuracy,0.76875
-SVM (RBF),41,accuracy,0.755
-SVM (RBF),42,accuracy,0.789375
-SVM (RBF),43,accuracy,0.779375
-SVM (RBF),44,accuracy,0.79625
+SVM (RBF),32,accuracy,0.765625
+SVM (RBF),33,accuracy,0.793125
+SVM (RBF),34,accuracy,0.78875
+SVM (RBF),35,accuracy,0.77875
+SVM (RBF),36,accuracy,0.77125
+SVM (RBF),37,accuracy,0.78125
+SVM (RBF),38,accuracy,0.78875
+SVM (RBF),39,accuracy,0.774375
+SVM (RBF),40,accuracy,0.769375
+SVM (RBF),41,accuracy,0.795
+SVM (RBF),42,accuracy,0.778125
+SVM (RBF),43,accuracy,0.774375
+SVM (RBF),44,accuracy,0.7825
 SVM (RBF),45,accuracy,0.76875
-SVM (RBF),46,accuracy,0.774375
-SVM (RBF),47,accuracy,0.784375
-SVM (RBF),48,accuracy,0.77125
-SVM (RBF),49,accuracy,0.7725
-SVM (RBF),0,balanced_accuracy,0.7477936638260524
-SVM (RBF),1,balanced_accuracy,0.7483524872108236
-SVM (RBF),2,balanced_accuracy,0.7656091024351753
-SVM (RBF),3,balanced_accuracy,0.7529552316947928
-SVM (RBF),4,balanced_accuracy,0.7659472983723942
-SVM (RBF),5,balanced_accuracy,0.7453276379490954
-SVM (RBF),6,balanced_accuracy,0.7500562787936988
-SVM (RBF),7,balanced_accuracy,0.763479698602436
-SVM (RBF),8,balanced_accuracy,0.7554777495606404
-SVM (RBF),9,balanced_accuracy,0.7601630383954578
-SVM (RBF),10,balanced_accuracy,0.7517285593398954
-SVM (RBF),11,balanced_accuracy,0.7497814651335326
-SVM (RBF),12,balanced_accuracy,0.7678513933896431
-SVM (RBF),13,balanced_accuracy,0.7474007319603984
-SVM (RBF),14,balanced_accuracy,0.7476687489154872
-SVM (RBF),15,balanced_accuracy,0.7471240197049914
-SVM (RBF),16,balanced_accuracy,0.7454939990260694
-SVM (RBF),17,balanced_accuracy,0.7508506956356892
-SVM (RBF),18,balanced_accuracy,0.7671235464576066
-SVM (RBF),19,balanced_accuracy,0.7603309460391247
-SVM (RBF),20,balanced_accuracy,0.761182354532557
-SVM (RBF),21,balanced_accuracy,0.7443368017813439
-SVM (RBF),22,balanced_accuracy,0.7515790664330498
-SVM (RBF),23,balanced_accuracy,0.7481634491422436
-SVM (RBF),24,balanced_accuracy,0.7664732949582148
-SVM (RBF),25,balanced_accuracy,0.7314593498044915
-SVM (RBF),26,balanced_accuracy,0.7561307853918526
-SVM (RBF),27,balanced_accuracy,0.7507903727149916
-SVM (RBF),28,balanced_accuracy,0.7670640743181895
-SVM (RBF),29,balanced_accuracy,0.7485058040578872
-SVM (RBF),30,balanced_accuracy,0.7553363831400268
-SVM (RBF),31,balanced_accuracy,0.7578700055571904
-SVM (RBF),32,balanced_accuracy,0.7524022441430736
-SVM (RBF),33,balanced_accuracy,0.7460897711025118
-SVM (RBF),34,balanced_accuracy,0.7504748368808634
-SVM (RBF),35,balanced_accuracy,0.7409563754958491
-SVM (RBF),36,balanced_accuracy,0.7479160128962465
-SVM (RBF),37,balanced_accuracy,0.7542070810110355
-SVM (RBF),38,balanced_accuracy,0.7533012215331099
-SVM (RBF),39,balanced_accuracy,0.7574863527108391
-SVM (RBF),40,balanced_accuracy,0.7452460056812283
-SVM (RBF),41,balanced_accuracy,0.7315159595613865
-SVM (RBF),42,balanced_accuracy,0.7668509844566768
-SVM (RBF),43,balanced_accuracy,0.750102010727366
-SVM (RBF),44,balanced_accuracy,0.775790071197268
-SVM (RBF),45,balanced_accuracy,0.7365730097612689
-SVM (RBF),46,balanced_accuracy,0.7541580322633914
-SVM (RBF),47,balanced_accuracy,0.7570209714943424
-SVM (RBF),48,balanced_accuracy,0.7462301811486207
-SVM (RBF),49,balanced_accuracy,0.7527714524171351
-SVM (RBF),0,precision_macro,0.7530775553857186
-SVM (RBF),1,precision_macro,0.7550050011034579
-SVM (RBF),2,precision_macro,0.7734987975576523
-SVM (RBF),3,precision_macro,0.7648842019240777
-SVM (RBF),4,precision_macro,0.7695063858493233
-SVM (RBF),5,precision_macro,0.75130722070894
-SVM (RBF),6,precision_macro,0.7546979517049613
-SVM (RBF),7,precision_macro,0.7676697464071194
-SVM (RBF),8,precision_macro,0.7716193509295122
-SVM (RBF),9,precision_macro,0.7700936520227528
-SVM (RBF),10,precision_macro,0.759124000487921
-SVM (RBF),11,precision_macro,0.7602831335586256
-SVM (RBF),12,precision_macro,0.7713797330401629
-SVM (RBF),13,precision_macro,0.7548579070071637
-SVM (RBF),14,precision_macro,0.7557811988728673
-SVM (RBF),15,precision_macro,0.7550917398161113
-SVM (RBF),16,precision_macro,0.7500660873336167
-SVM (RBF),17,precision_macro,0.7626893561371941
-SVM (RBF),18,precision_macro,0.769916890973842
-SVM (RBF),19,precision_macro,0.7674753425768414
-SVM (RBF),20,precision_macro,0.769116653988871
-SVM (RBF),21,precision_macro,0.7556833124531687
-SVM (RBF),22,precision_macro,0.7600260836987955
-SVM (RBF),23,precision_macro,0.7601334496571039
-SVM (RBF),24,precision_macro,0.7672964283134259
-SVM (RBF),25,precision_macro,0.7463951434531406
-SVM (RBF),26,precision_macro,0.7610417673930504
-SVM (RBF),27,precision_macro,0.7595954913334777
-SVM (RBF),28,precision_macro,0.7749556013334858
-SVM (RBF),29,precision_macro,0.7518103056813947
-SVM (RBF),30,precision_macro,0.7603506229884618
-SVM (RBF),31,precision_macro,0.7707584563380669
-SVM (RBF),32,precision_macro,0.7573736441128719
-SVM (RBF),33,precision_macro,0.7520384008044757
-SVM (RBF),34,precision_macro,0.7569176492213695
-SVM (RBF),35,precision_macro,0.7501428741519162
-SVM (RBF),36,precision_macro,0.7582381419190248
-SVM (RBF),37,precision_macro,0.7585162901902442
-SVM (RBF),38,precision_macro,0.7610444321489945
-SVM (RBF),39,precision_macro,0.7657926729333271
-SVM (RBF),40,precision_macro,0.751157844266261
-SVM (RBF),41,precision_macro,0.7385006291630068
-SVM (RBF),42,precision_macro,0.777628758888945
-SVM (RBF),43,precision_macro,0.7606225081618362
-SVM (RBF),44,precision_macro,0.7814823111270404
-SVM (RBF),45,precision_macro,0.7502463015095147
-SVM (RBF),46,precision_macro,0.7582799565622667
-SVM (RBF),47,precision_macro,0.7673503964072432
-SVM (RBF),48,precision_macro,0.7537809929980763
-SVM (RBF),49,precision_macro,0.7596268883117556
-SVM (RBF),0,recall_macro,0.7477936638260524
-SVM (RBF),1,recall_macro,0.7483524872108236
-SVM (RBF),2,recall_macro,0.7656091024351753
-SVM (RBF),3,recall_macro,0.7529552316947928
-SVM (RBF),4,recall_macro,0.7659472983723942
-SVM (RBF),5,recall_macro,0.7453276379490954
-SVM (RBF),6,recall_macro,0.7500562787936988
-SVM (RBF),7,recall_macro,0.763479698602436
-SVM (RBF),8,recall_macro,0.7554777495606404
-SVM (RBF),9,recall_macro,0.7601630383954578
-SVM (RBF),10,recall_macro,0.7517285593398954
-SVM (RBF),11,recall_macro,0.7497814651335326
-SVM (RBF),12,recall_macro,0.7678513933896431
-SVM (RBF),13,recall_macro,0.7474007319603984
-SVM (RBF),14,recall_macro,0.7476687489154872
-SVM (RBF),15,recall_macro,0.7471240197049914
-SVM (RBF),16,recall_macro,0.7454939990260694
-SVM (RBF),17,recall_macro,0.7508506956356892
-SVM (RBF),18,recall_macro,0.7671235464576066
-SVM (RBF),19,recall_macro,0.7603309460391247
-SVM (RBF),20,recall_macro,0.761182354532557
-SVM (RBF),21,recall_macro,0.7443368017813439
-SVM (RBF),22,recall_macro,0.7515790664330498
-SVM (RBF),23,recall_macro,0.7481634491422436
-SVM (RBF),24,recall_macro,0.7664732949582148
-SVM (RBF),25,recall_macro,0.7314593498044915
-SVM (RBF),26,recall_macro,0.7561307853918526
-SVM (RBF),27,recall_macro,0.7507903727149916
-SVM (RBF),28,recall_macro,0.7670640743181895
-SVM (RBF),29,recall_macro,0.7485058040578872
-SVM (RBF),30,recall_macro,0.7553363831400268
-SVM (RBF),31,recall_macro,0.7578700055571904
-SVM (RBF),32,recall_macro,0.7524022441430736
-SVM (RBF),33,recall_macro,0.7460897711025118
-SVM (RBF),34,recall_macro,0.7504748368808634
-SVM (RBF),35,recall_macro,0.7409563754958491
-SVM (RBF),36,recall_macro,0.7479160128962465
-SVM (RBF),37,recall_macro,0.7542070810110355
-SVM (RBF),38,recall_macro,0.7533012215331099
-SVM (RBF),39,recall_macro,0.7574863527108391
-SVM (RBF),40,recall_macro,0.7452460056812283
-SVM (RBF),41,recall_macro,0.7315159595613865
-SVM (RBF),42,recall_macro,0.7668509844566768
-SVM (RBF),43,recall_macro,0.750102010727366
-SVM (RBF),44,recall_macro,0.775790071197268
-SVM (RBF),45,recall_macro,0.7365730097612689
-SVM (RBF),46,recall_macro,0.7541580322633914
-SVM (RBF),47,recall_macro,0.7570209714943424
-SVM (RBF),48,recall_macro,0.7462301811486207
-SVM (RBF),49,recall_macro,0.7527714524171351
+SVM (RBF),46,accuracy,0.783125
+SVM (RBF),47,accuracy,0.78875
+SVM (RBF),48,accuracy,0.763125
+SVM (RBF),49,accuracy,0.78875
+SVM (RBF),0,balanced_accuracy,0.7548060801097238
+SVM (RBF),1,balanced_accuracy,0.7533007656265054
+SVM (RBF),2,balanced_accuracy,0.7477172477568826
+SVM (RBF),3,balanced_accuracy,0.7460419768180835
+SVM (RBF),4,balanced_accuracy,0.7672845368319526
+SVM (RBF),5,balanced_accuracy,0.763451829884016
+SVM (RBF),6,balanced_accuracy,0.76449190557378
+SVM (RBF),7,balanced_accuracy,0.7544538125096383
+SVM (RBF),8,balanced_accuracy,0.7489271460960177
+SVM (RBF),9,balanced_accuracy,0.7566576329493808
+SVM (RBF),10,balanced_accuracy,0.7506639660384599
+SVM (RBF),11,balanced_accuracy,0.7633636324646387
+SVM (RBF),12,balanced_accuracy,0.7599192198384694
+SVM (RBF),13,balanced_accuracy,0.7367776944171976
+SVM (RBF),14,balanced_accuracy,0.7474318907119816
+SVM (RBF),15,balanced_accuracy,0.7657598131737808
+SVM (RBF),16,balanced_accuracy,0.7446467693326859
+SVM (RBF),17,balanced_accuracy,0.7582999580007972
+SVM (RBF),18,balanced_accuracy,0.7631688714625541
+SVM (RBF),19,balanced_accuracy,0.7366851391637714
+SVM (RBF),20,balanced_accuracy,0.7461829247001311
+SVM (RBF),21,balanced_accuracy,0.7834225633146398
+SVM (RBF),22,balanced_accuracy,0.7575002475673075
+SVM (RBF),23,balanced_accuracy,0.7554342344380257
+SVM (RBF),24,balanced_accuracy,0.7345223595779689
+SVM (RBF),25,balanced_accuracy,0.7731738869542513
+SVM (RBF),26,balanced_accuracy,0.7663084287231359
+SVM (RBF),27,balanced_accuracy,0.7533121772166124
+SVM (RBF),28,balanced_accuracy,0.7577037738160143
+SVM (RBF),29,balanced_accuracy,0.7329446538427284
+SVM (RBF),30,balanced_accuracy,0.7537785712937535
+SVM (RBF),31,balanced_accuracy,0.7585643398427853
+SVM (RBF),32,balanced_accuracy,0.739226570262625
+SVM (RBF),33,balanced_accuracy,0.7678091413470766
+SVM (RBF),34,balanced_accuracy,0.7649124054474623
+SVM (RBF),35,balanced_accuracy,0.7535209184652504
+SVM (RBF),36,balanced_accuracy,0.7469360382576313
+SVM (RBF),37,balanced_accuracy,0.7553173261357805
+SVM (RBF),38,balanced_accuracy,0.7663002225232697
+SVM (RBF),39,balanced_accuracy,0.7552821550109401
+SVM (RBF),40,balanced_accuracy,0.7476476773339122
+SVM (RBF),41,balanced_accuracy,0.7693980867880409
+SVM (RBF),42,balanced_accuracy,0.7588526360606525
+SVM (RBF),43,balanced_accuracy,0.7462528496781162
+SVM (RBF),44,balanced_accuracy,0.757711412875967
+SVM (RBF),45,balanced_accuracy,0.7467922962103124
+SVM (RBF),46,balanced_accuracy,0.7540225202200042
+SVM (RBF),47,balanced_accuracy,0.7651730318025336
+SVM (RBF),48,balanced_accuracy,0.7412023655137763
+SVM (RBF),49,balanced_accuracy,0.7665843597627119
+SVM (RBF),0,precision_macro,0.7576894004251357
+SVM (RBF),1,precision_macro,0.7546311683371295
+SVM (RBF),2,precision_macro,0.7562288646390364
+SVM (RBF),3,precision_macro,0.7565452866741388
+SVM (RBF),4,precision_macro,0.7839310141271258
+SVM (RBF),5,precision_macro,0.7754227351351005
+SVM (RBF),6,precision_macro,0.7645407035236094
+SVM (RBF),7,precision_macro,0.7596131710555846
+SVM (RBF),8,precision_macro,0.7598883689548996
+SVM (RBF),9,precision_macro,0.764538335891974
+SVM (RBF),10,precision_macro,0.7629962955724926
+SVM (RBF),11,precision_macro,0.7692199041922831
+SVM (RBF),12,precision_macro,0.7703388413213057
+SVM (RBF),13,precision_macro,0.7413216302895882
+SVM (RBF),14,precision_macro,0.7564830145588883
+SVM (RBF),15,precision_macro,0.7690408835400755
+SVM (RBF),16,precision_macro,0.756405298085888
+SVM (RBF),17,precision_macro,0.7688069888681549
+SVM (RBF),18,precision_macro,0.764319233902142
+SVM (RBF),19,precision_macro,0.7487019380757302
+SVM (RBF),20,precision_macro,0.7514401648353981
+SVM (RBF),21,precision_macro,0.7873203355707259
+SVM (RBF),22,precision_macro,0.7660223703975645
+SVM (RBF),23,precision_macro,0.7670281299171984
+SVM (RBF),24,precision_macro,0.7449649660107112
+SVM (RBF),25,precision_macro,0.7755181192514871
+SVM (RBF),26,precision_macro,0.7757108779615361
+SVM (RBF),27,precision_macro,0.7627344790547798
+SVM (RBF),28,precision_macro,0.7645150854918672
+SVM (RBF),29,precision_macro,0.7393868696105821
+SVM (RBF),30,precision_macro,0.7570597988364727
+SVM (RBF),31,precision_macro,0.7598370859410726
+SVM (RBF),32,precision_macro,0.7545091147763355
+SVM (RBF),33,precision_macro,0.7795463574968624
+SVM (RBF),34,precision_macro,0.7760138692661045
+SVM (RBF),35,precision_macro,0.7597708631269565
+SVM (RBF),36,precision_macro,0.7539268931539465
+SVM (RBF),37,precision_macro,0.7648208736324036
+SVM (RBF),38,precision_macro,0.7710345970737057
+SVM (RBF),39,precision_macro,0.7618840913703371
+SVM (RBF),40,precision_macro,0.7551196600024368
+SVM (RBF),41,precision_macro,0.7761121579948873
+SVM (RBF),42,precision_macro,0.762110980119937
+SVM (RBF),43,precision_macro,0.7553170879584005
+SVM (RBF),44,precision_macro,0.7689696521602851
+SVM (RBF),45,precision_macro,0.7525306267428362
+SVM (RBF),46,precision_macro,0.7698370944877678
+SVM (RBF),47,precision_macro,0.7723942089928105
+SVM (RBF),48,precision_macro,0.7459056053178222
+SVM (RBF),49,precision_macro,0.770367681651003
+SVM (RBF),0,recall_macro,0.7548060801097238
+SVM (RBF),1,recall_macro,0.7533007656265054
+SVM (RBF),2,recall_macro,0.7477172477568826
+SVM (RBF),3,recall_macro,0.7460419768180835
+SVM (RBF),4,recall_macro,0.7672845368319526
+SVM (RBF),5,recall_macro,0.763451829884016
+SVM (RBF),6,recall_macro,0.76449190557378
+SVM (RBF),7,recall_macro,0.7544538125096383
+SVM (RBF),8,recall_macro,0.7489271460960177
+SVM (RBF),9,recall_macro,0.7566576329493808
+SVM (RBF),10,recall_macro,0.7506639660384599
+SVM (RBF),11,recall_macro,0.7633636324646387
+SVM (RBF),12,recall_macro,0.7599192198384694
+SVM (RBF),13,recall_macro,0.7367776944171976
+SVM (RBF),14,recall_macro,0.7474318907119816
+SVM (RBF),15,recall_macro,0.7657598131737808
+SVM (RBF),16,recall_macro,0.7446467693326859
+SVM (RBF),17,recall_macro,0.7582999580007972
+SVM (RBF),18,recall_macro,0.7631688714625541
+SVM (RBF),19,recall_macro,0.7366851391637714
+SVM (RBF),20,recall_macro,0.7461829247001311
+SVM (RBF),21,recall_macro,0.7834225633146398
+SVM (RBF),22,recall_macro,0.7575002475673075
+SVM (RBF),23,recall_macro,0.7554342344380257
+SVM (RBF),24,recall_macro,0.7345223595779689
+SVM (RBF),25,recall_macro,0.7731738869542513
+SVM (RBF),26,recall_macro,0.7663084287231359
+SVM (RBF),27,recall_macro,0.7533121772166124
+SVM (RBF),28,recall_macro,0.7577037738160143
+SVM (RBF),29,recall_macro,0.7329446538427284
+SVM (RBF),30,recall_macro,0.7537785712937535
+SVM (RBF),31,recall_macro,0.7585643398427853
+SVM (RBF),32,recall_macro,0.739226570262625
+SVM (RBF),33,recall_macro,0.7678091413470766
+SVM (RBF),34,recall_macro,0.7649124054474623
+SVM (RBF),35,recall_macro,0.7535209184652504
+SVM (RBF),36,recall_macro,0.7469360382576313
+SVM (RBF),37,recall_macro,0.7553173261357805
+SVM (RBF),38,recall_macro,0.7663002225232697
+SVM (RBF),39,recall_macro,0.7552821550109401
+SVM (RBF),40,recall_macro,0.7476476773339122
+SVM (RBF),41,recall_macro,0.7693980867880409
+SVM (RBF),42,recall_macro,0.7588526360606525
+SVM (RBF),43,recall_macro,0.7462528496781162
+SVM (RBF),44,recall_macro,0.757711412875967
+SVM (RBF),45,recall_macro,0.7467922962103124
+SVM (RBF),46,recall_macro,0.7540225202200042
+SVM (RBF),47,recall_macro,0.7651730318025336
+SVM (RBF),48,recall_macro,0.7412023655137763
+SVM (RBF),49,recall_macro,0.7665843597627119
+Naive Bayes,0,f1_macro,0.5807316528805083
+Naive Bayes,1,f1_macro,0.6149163754461284
+Naive Bayes,2,f1_macro,0.5940830705657705
+Naive Bayes,3,f1_macro,0.5903025966896662
+Naive Bayes,4,f1_macro,0.5945461192488288
+Naive Bayes,5,f1_macro,0.6073272836229189
+Naive Bayes,6,f1_macro,0.595856850169063
+Naive Bayes,7,f1_macro,0.5785366230114278
+Naive Bayes,8,f1_macro,0.5847111830091916
+Naive Bayes,9,f1_macro,0.5872395671771706
+Naive Bayes,10,f1_macro,0.5787207286376962
+Naive Bayes,11,f1_macro,0.5902241971095408
+Naive Bayes,12,f1_macro,0.5975888740620676
+Naive Bayes,13,f1_macro,0.6041684199975128
+Naive Bayes,14,f1_macro,0.592607419862391
+Naive Bayes,15,f1_macro,0.5943342247398
+Naive Bayes,16,f1_macro,0.5992719213115424
+Naive Bayes,17,f1_macro,0.5947826493128264
+Naive Bayes,18,f1_macro,0.6020310936850886
+Naive Bayes,19,f1_macro,0.5799552478377072
+Naive Bayes,20,f1_macro,0.6072160703112028
+Naive Bayes,21,f1_macro,0.5993395560665982
+Naive Bayes,22,f1_macro,0.597981907396885
+Naive Bayes,23,f1_macro,0.5778870888866925
+Naive Bayes,24,f1_macro,0.5864376315832514
+Naive Bayes,25,f1_macro,0.5817548139790398
+Naive Bayes,26,f1_macro,0.634901513498743
+Naive Bayes,27,f1_macro,0.585874193929211
+Naive Bayes,28,f1_macro,0.586759101604728
+Naive Bayes,29,f1_macro,0.5858939983328877
+Naive Bayes,30,f1_macro,0.5957878572455376
+Naive Bayes,31,f1_macro,0.5928435741892231
+Naive Bayes,32,f1_macro,0.5856107651085757
+Naive Bayes,33,f1_macro,0.5861313574135281
+Naive Bayes,34,f1_macro,0.608883910869728
+Naive Bayes,35,f1_macro,0.5923520062555934
+Naive Bayes,36,f1_macro,0.5752912462538413
+Naive Bayes,37,f1_macro,0.6232923298652182
+Naive Bayes,38,f1_macro,0.5920539146162269
+Naive Bayes,39,f1_macro,0.588941501419093
+Naive Bayes,40,f1_macro,0.5958866186041479
+Naive Bayes,41,f1_macro,0.6254961310858487
+Naive Bayes,42,f1_macro,0.5989200329291111
+Naive Bayes,43,f1_macro,0.5805760710198314
+Naive Bayes,44,f1_macro,0.5651675030818957
+Naive Bayes,45,f1_macro,0.5806661242857277
+Naive Bayes,46,f1_macro,0.6049362545049017
+Naive Bayes,47,f1_macro,0.5858765286737062
+Naive Bayes,48,f1_macro,0.5846593837435048
+Naive Bayes,49,f1_macro,0.6027159407780878
+Naive Bayes,0,accuracy,0.609375
+Naive Bayes,1,accuracy,0.641875
+Naive Bayes,2,accuracy,0.61625
+Naive Bayes,3,accuracy,0.619375
+Naive Bayes,4,accuracy,0.625
+Naive Bayes,5,accuracy,0.63
+Naive Bayes,6,accuracy,0.63
+Naive Bayes,7,accuracy,0.61375
+Naive Bayes,8,accuracy,0.61125
+Naive Bayes,9,accuracy,0.613125
+Naive Bayes,10,accuracy,0.61
+Naive Bayes,11,accuracy,0.625
+Naive Bayes,12,accuracy,0.625625
+Naive Bayes,13,accuracy,0.629375
+Naive Bayes,14,accuracy,0.616875
+Naive Bayes,15,accuracy,0.624375
+Naive Bayes,16,accuracy,0.629375
+Naive Bayes,17,accuracy,0.621875
+Naive Bayes,18,accuracy,0.633125
+Naive Bayes,19,accuracy,0.60125
+Naive Bayes,20,accuracy,0.63125
+Naive Bayes,21,accuracy,0.62625
+Naive Bayes,22,accuracy,0.625625
+Naive Bayes,23,accuracy,0.61375
+Naive Bayes,24,accuracy,0.610625
+Naive Bayes,25,accuracy,0.615
+Naive Bayes,26,accuracy,0.655625
+Naive Bayes,27,accuracy,0.619375
+Naive Bayes,28,accuracy,0.616875
+Naive Bayes,29,accuracy,0.606875
+Naive Bayes,30,accuracy,0.625625
+Naive Bayes,31,accuracy,0.621875
+Naive Bayes,32,accuracy,0.609375
+Naive Bayes,33,accuracy,0.618125
+Naive Bayes,34,accuracy,0.634375
+Naive Bayes,35,accuracy,0.623125
+Naive Bayes,36,accuracy,0.6075
+Naive Bayes,37,accuracy,0.648125
+Naive Bayes,38,accuracy,0.623125
+Naive Bayes,39,accuracy,0.613125
+Naive Bayes,40,accuracy,0.62375
+Naive Bayes,41,accuracy,0.649375
+Naive Bayes,42,accuracy,0.62125
+Naive Bayes,43,accuracy,0.614375
+Naive Bayes,44,accuracy,0.599375
+Naive Bayes,45,accuracy,0.61
+Naive Bayes,46,accuracy,0.630625
+Naive Bayes,47,accuracy,0.61875
+Naive Bayes,48,accuracy,0.611875
+Naive Bayes,49,accuracy,0.630625
+Naive Bayes,0,balanced_accuracy,0.5894543810889965
+Naive Bayes,1,balanced_accuracy,0.6230200410097428
+Naive Bayes,2,balanced_accuracy,0.5973490632196379
+Naive Bayes,3,balanced_accuracy,0.5967206292780342
+Naive Bayes,4,balanced_accuracy,0.6045064030610379
+Naive Bayes,5,balanced_accuracy,0.6148306759592185
+Naive Bayes,6,balanced_accuracy,0.6051540338770147
+Naive Bayes,7,balanced_accuracy,0.5869084126929711
+Naive Bayes,8,balanced_accuracy,0.5893957680508106
+Naive Bayes,9,balanced_accuracy,0.5936244409157537
+Naive Bayes,10,balanced_accuracy,0.5860950599108494
+Naive Bayes,11,balanced_accuracy,0.6012359136510939
+Naive Bayes,12,balanced_accuracy,0.6069328769750988
+Naive Bayes,13,balanced_accuracy,0.6101080356070556
+Naive Bayes,14,balanced_accuracy,0.5961322303775172
+Naive Bayes,15,balanced_accuracy,0.6018508307931385
+Naive Bayes,16,balanced_accuracy,0.6064428938689939
+Naive Bayes,17,balanced_accuracy,0.6011099742181993
+Naive Bayes,18,balanced_accuracy,0.6124823667593609
+Naive Bayes,19,balanced_accuracy,0.583272753994429
+Naive Bayes,20,balanced_accuracy,0.6161956414031313
+Naive Bayes,21,balanced_accuracy,0.6068606097917103
+Naive Bayes,22,balanced_accuracy,0.6025071234901149
+Naive Bayes,23,balanced_accuracy,0.5848739531899483
+Naive Bayes,24,balanced_accuracy,0.5920547863488066
+Naive Bayes,25,balanced_accuracy,0.5927816155953808
+Naive Bayes,26,balanced_accuracy,0.6395074084216263
+Naive Bayes,27,balanced_accuracy,0.5892471948889977
+Naive Bayes,28,balanced_accuracy,0.595089543551487
+Naive Bayes,29,balanced_accuracy,0.5915561671771553
+Naive Bayes,30,balanced_accuracy,0.6067058784670121
+Naive Bayes,31,balanced_accuracy,0.6014841836351337
+Naive Bayes,32,balanced_accuracy,0.5877984701856671
+Naive Bayes,33,balanced_accuracy,0.5963568258287809
+Naive Bayes,34,balanced_accuracy,0.6153241845630857
+Naive Bayes,35,balanced_accuracy,0.5976456090018843
+Naive Bayes,36,balanced_accuracy,0.5839990452073638
+Naive Bayes,37,balanced_accuracy,0.6260777414332059
+Naive Bayes,38,balanced_accuracy,0.6066556828554747
+Naive Bayes,39,balanced_accuracy,0.5964485913328558
+Naive Bayes,40,balanced_accuracy,0.6030975316855884
+Naive Bayes,41,balanced_accuracy,0.6310031026690296
+Naive Bayes,42,balanced_accuracy,0.6064427478351078
+Naive Bayes,43,balanced_accuracy,0.5905148722313944
+Naive Bayes,44,balanced_accuracy,0.5719292595479275
+Naive Bayes,45,balanced_accuracy,0.5897527596110592
+Naive Bayes,46,balanced_accuracy,0.6071719866474137
+Naive Bayes,47,balanced_accuracy,0.5946437456576342
+Naive Bayes,48,balanced_accuracy,0.5921732243292291
+Naive Bayes,49,balanced_accuracy,0.6109244164215746
+Naive Bayes,0,precision_macro,0.5782595312495498
+Naive Bayes,1,precision_macro,0.6183975801715649
+Naive Bayes,2,precision_macro,0.5966988999972055
+Naive Bayes,3,precision_macro,0.5889988521392063
+Naive Bayes,4,precision_macro,0.5961174002172429
+Naive Bayes,5,precision_macro,0.6112264569999365
+Naive Bayes,6,precision_macro,0.5936613147261072
+Naive Bayes,7,precision_macro,0.5781056542296057
+Naive Bayes,8,precision_macro,0.5865240709342061
+Naive Bayes,9,precision_macro,0.5869711916171941
+Naive Bayes,10,precision_macro,0.5790651536205034
+Naive Bayes,11,precision_macro,0.5876855315921182
+Naive Bayes,12,precision_macro,0.6005805746785636
+Naive Bayes,13,precision_macro,0.6051148178597893
+Naive Bayes,14,precision_macro,0.5929327541059453
+Naive Bayes,15,precision_macro,0.5917657976337277
+Naive Bayes,16,precision_macro,0.6000260974555915
+Naive Bayes,17,precision_macro,0.5989807460679583
+Naive Bayes,18,precision_macro,0.5997952161327551
+Naive Bayes,19,precision_macro,0.5823302762891414
+Naive Bayes,20,precision_macro,0.6078561411192014
+Naive Bayes,21,precision_macro,0.5991204271804738
+Naive Bayes,22,precision_macro,0.5969735333026427
+Naive Bayes,23,precision_macro,0.5780684555059633
+Naive Bayes,24,precision_macro,0.5873507517331592
+Naive Bayes,25,precision_macro,0.5791081228139067
+Naive Bayes,26,precision_macro,0.6344044655896739
+Naive Bayes,27,precision_macro,0.5872860201935362
+Naive Bayes,28,precision_macro,0.5862468920078115
+Naive Bayes,29,precision_macro,0.5902726599383937
+Naive Bayes,30,precision_macro,0.5958236101730219
+Naive Bayes,31,precision_macro,0.5887721203988012
+Naive Bayes,32,precision_macro,0.5910636888033534
+Naive Bayes,33,precision_macro,0.587507472085316
+Naive Bayes,34,precision_macro,0.6099296032028086
+Naive Bayes,35,precision_macro,0.5924715726547719
+Naive Bayes,36,precision_macro,0.574960817106908
+Naive Bayes,37,precision_macro,0.6241020498660277
+Naive Bayes,38,precision_macro,0.5926174776209949
+Naive Bayes,39,precision_macro,0.5901888890942145
+Naive Bayes,40,precision_macro,0.5964753924565138
+Naive Bayes,41,precision_macro,0.6275756097622546
+Naive Bayes,42,precision_macro,0.6000764151767435
+Naive Bayes,43,precision_macro,0.5809897262818298
+Naive Bayes,44,precision_macro,0.5638057216380987
+Naive Bayes,45,precision_macro,0.5811998608969864
+Naive Bayes,46,precision_macro,0.6064476238979409
+Naive Bayes,47,precision_macro,0.5865323759502091
+Naive Bayes,48,precision_macro,0.5852441422134043
+Naive Bayes,49,precision_macro,0.5997684770783277
+Naive Bayes,0,recall_macro,0.5894543810889965
+Naive Bayes,1,recall_macro,0.6230200410097428
+Naive Bayes,2,recall_macro,0.5973490632196379
+Naive Bayes,3,recall_macro,0.5967206292780342
+Naive Bayes,4,recall_macro,0.6045064030610379
+Naive Bayes,5,recall_macro,0.6148306759592185
+Naive Bayes,6,recall_macro,0.6051540338770147
+Naive Bayes,7,recall_macro,0.5869084126929711
+Naive Bayes,8,recall_macro,0.5893957680508106
+Naive Bayes,9,recall_macro,0.5936244409157537
+Naive Bayes,10,recall_macro,0.5860950599108494
+Naive Bayes,11,recall_macro,0.6012359136510939
+Naive Bayes,12,recall_macro,0.6069328769750988
+Naive Bayes,13,recall_macro,0.6101080356070556
+Naive Bayes,14,recall_macro,0.5961322303775172
+Naive Bayes,15,recall_macro,0.6018508307931385
+Naive Bayes,16,recall_macro,0.6064428938689939
+Naive Bayes,17,recall_macro,0.6011099742181993
+Naive Bayes,18,recall_macro,0.6124823667593609
+Naive Bayes,19,recall_macro,0.583272753994429
+Naive Bayes,20,recall_macro,0.6161956414031313
+Naive Bayes,21,recall_macro,0.6068606097917103
+Naive Bayes,22,recall_macro,0.6025071234901149
+Naive Bayes,23,recall_macro,0.5848739531899483
+Naive Bayes,24,recall_macro,0.5920547863488066
+Naive Bayes,25,recall_macro,0.5927816155953808
+Naive Bayes,26,recall_macro,0.6395074084216263
+Naive Bayes,27,recall_macro,0.5892471948889977
+Naive Bayes,28,recall_macro,0.595089543551487
+Naive Bayes,29,recall_macro,0.5915561671771553
+Naive Bayes,30,recall_macro,0.6067058784670121
+Naive Bayes,31,recall_macro,0.6014841836351337
+Naive Bayes,32,recall_macro,0.5877984701856671
+Naive Bayes,33,recall_macro,0.5963568258287809
+Naive Bayes,34,recall_macro,0.6153241845630857
+Naive Bayes,35,recall_macro,0.5976456090018843
+Naive Bayes,36,recall_macro,0.5839990452073638
+Naive Bayes,37,recall_macro,0.6260777414332059
+Naive Bayes,38,recall_macro,0.6066556828554747
+Naive Bayes,39,recall_macro,0.5964485913328558
+Naive Bayes,40,recall_macro,0.6030975316855884
+Naive Bayes,41,recall_macro,0.6310031026690296
+Naive Bayes,42,recall_macro,0.6064427478351078
+Naive Bayes,43,recall_macro,0.5905148722313944
+Naive Bayes,44,recall_macro,0.5719292595479275
+Naive Bayes,45,recall_macro,0.5897527596110592
+Naive Bayes,46,recall_macro,0.6071719866474137
+Naive Bayes,47,recall_macro,0.5946437456576342
+Naive Bayes,48,recall_macro,0.5921732243292291
+Naive Bayes,49,recall_macro,0.6109244164215746
+Regressao Logistica,0,f1_macro,0.7739564003100562
+Regressao Logistica,1,f1_macro,0.766925079792204
+Regressao Logistica,2,f1_macro,0.766291370666298
+Regressao Logistica,3,f1_macro,0.770230814868768
+Regressao Logistica,4,f1_macro,0.778678950772675
+Regressao Logistica,5,f1_macro,0.784696356257724
+Regressao Logistica,6,f1_macro,0.7863795840134894
+Regressao Logistica,7,f1_macro,0.7662101436289974
+Regressao Logistica,8,f1_macro,0.7669799023737014
+Regressao Logistica,9,f1_macro,0.7685559820351544
+Regressao Logistica,10,f1_macro,0.7801052773312593
+Regressao Logistica,11,f1_macro,0.779755459683132
+Regressao Logistica,12,f1_macro,0.7757350985944601
+Regressao Logistica,13,f1_macro,0.7584714126253819
+Regressao Logistica,14,f1_macro,0.7718042726696352
+Regressao Logistica,15,f1_macro,0.7655675955106032
+Regressao Logistica,16,f1_macro,0.7822202638763925
+Regressao Logistica,17,f1_macro,0.7764156733651673
+Regressao Logistica,18,f1_macro,0.7762791539180753
+Regressao Logistica,19,f1_macro,0.7700739748315513
+Regressao Logistica,20,f1_macro,0.7646439570203287
+Regressao Logistica,21,f1_macro,0.7856863370724861
+Regressao Logistica,22,f1_macro,0.7739022604613591
+Regressao Logistica,23,f1_macro,0.7779211511803377
+Regressao Logistica,24,f1_macro,0.7667150643682316
+Regressao Logistica,25,f1_macro,0.7823982045394677
+Regressao Logistica,26,f1_macro,0.7862286306642885
+Regressao Logistica,27,f1_macro,0.7714307058404278
+Regressao Logistica,28,f1_macro,0.757014096116215
+Regressao Logistica,29,f1_macro,0.7638338554153032
+Regressao Logistica,30,f1_macro,0.7729922194862393
+Regressao Logistica,31,f1_macro,0.7849342351796813
+Regressao Logistica,32,f1_macro,0.7540083091161902
+Regressao Logistica,33,f1_macro,0.7843838229560851
+Regressao Logistica,34,f1_macro,0.7715799715489087
+Regressao Logistica,35,f1_macro,0.7602418967197768
+Regressao Logistica,36,f1_macro,0.7857827970983524
+Regressao Logistica,37,f1_macro,0.7754068937364452
+Regressao Logistica,38,f1_macro,0.7761968006676494
+Regressao Logistica,39,f1_macro,0.7723865247679487
+Regressao Logistica,40,f1_macro,0.771933251349278
+Regressao Logistica,41,f1_macro,0.7827226765518769
+Regressao Logistica,42,f1_macro,0.7628257425578179
+Regressao Logistica,43,f1_macro,0.7702838247937074
+Regressao Logistica,44,f1_macro,0.7700643549946519
+Regressao Logistica,45,f1_macro,0.7650750188092632
+Regressao Logistica,46,f1_macro,0.7695214080588151
+Regressao Logistica,47,f1_macro,0.7862858406583219
+Regressao Logistica,48,f1_macro,0.7769593551920371
+Regressao Logistica,49,f1_macro,0.7626809393561995
+Regressao Logistica,0,accuracy,0.79625
+Regressao Logistica,1,accuracy,0.7875
+Regressao Logistica,2,accuracy,0.786875
+Regressao Logistica,3,accuracy,0.790625
+Regressao Logistica,4,accuracy,0.7975
+Regressao Logistica,5,accuracy,0.805625
+Regressao Logistica,6,accuracy,0.80625
+Regressao Logistica,7,accuracy,0.78875
+Regressao Logistica,8,accuracy,0.7875
+Regressao Logistica,9,accuracy,0.785
+Regressao Logistica,10,accuracy,0.79625
+Regressao Logistica,11,accuracy,0.800625
+Regressao Logistica,12,accuracy,0.7975
+Regressao Logistica,13,accuracy,0.78
+Regressao Logistica,14,accuracy,0.79375
+Regressao Logistica,15,accuracy,0.78375
+Regressao Logistica,16,accuracy,0.801875
+Regressao Logistica,17,accuracy,0.800625
+Regressao Logistica,18,accuracy,0.795625
+Regressao Logistica,19,accuracy,0.79
+Regressao Logistica,20,accuracy,0.786875
+Regressao Logistica,21,accuracy,0.80625
+Regressao Logistica,22,accuracy,0.79125
+Regressao Logistica,23,accuracy,0.798125
+Regressao Logistica,24,accuracy,0.785625
+Regressao Logistica,25,accuracy,0.803125
+Regressao Logistica,26,accuracy,0.803125
+Regressao Logistica,27,accuracy,0.793125
+Regressao Logistica,28,accuracy,0.78125
+Regressao Logistica,29,accuracy,0.78125
+Regressao Logistica,30,accuracy,0.793125
+Regressao Logistica,31,accuracy,0.80375
+Regressao Logistica,32,accuracy,0.776875
+Regressao Logistica,33,accuracy,0.805625
+Regressao Logistica,34,accuracy,0.79
+Regressao Logistica,35,accuracy,0.78375
+Regressao Logistica,36,accuracy,0.805
+Regressao Logistica,37,accuracy,0.795625
+Regressao Logistica,38,accuracy,0.8
+Regressao Logistica,39,accuracy,0.78875
+Regressao Logistica,40,accuracy,0.788125
+Regressao Logistica,41,accuracy,0.8025
+Regressao Logistica,42,accuracy,0.78375
+Regressao Logistica,43,accuracy,0.79375
+Regressao Logistica,44,accuracy,0.79125
+Regressao Logistica,45,accuracy,0.78375
+Regressao Logistica,46,accuracy,0.793125
+Regressao Logistica,47,accuracy,0.805
+Regressao Logistica,48,accuracy,0.79375
+Regressao Logistica,49,accuracy,0.786875
+Regressao Logistica,0,balanced_accuracy,0.773629167728358
+Regressao Logistica,1,balanced_accuracy,0.7684732618524398
+Regressao Logistica,2,balanced_accuracy,0.7657843832547677
+Regressao Logistica,3,balanced_accuracy,0.7670134786587031
+Regressao Logistica,4,balanced_accuracy,0.7750713078109772
+Regressao Logistica,5,balanced_accuracy,0.7816628524422047
+Regressao Logistica,6,balanced_accuracy,0.7882587883466359
+Regressao Logistica,7,balanced_accuracy,0.7659599385752197
+Regressao Logistica,8,balanced_accuracy,0.7624694161839451
+Regressao Logistica,9,balanced_accuracy,0.7672524250634671
+Regressao Logistica,10,balanced_accuracy,0.7768289992733313
+Regressao Logistica,11,balanced_accuracy,0.7798600137735067
+Regressao Logistica,12,balanced_accuracy,0.7732468443457825
+Regressao Logistica,13,balanced_accuracy,0.7580915595998661
+Regressao Logistica,14,balanced_accuracy,0.770524598802307
+Regressao Logistica,15,balanced_accuracy,0.7668562218258574
+Regressao Logistica,16,balanced_accuracy,0.7787407459445176
+Regressao Logistica,17,balanced_accuracy,0.7736434384604182
+Regressao Logistica,18,balanced_accuracy,0.7763958629835481
+Regressao Logistica,19,balanced_accuracy,0.7668705677793204
+Regressao Logistica,20,balanced_accuracy,0.7621658149542765
+Regressao Logistica,21,balanced_accuracy,0.7839494020649082
+Regressao Logistica,22,balanced_accuracy,0.7715008095276003
+Regressao Logistica,23,balanced_accuracy,0.7771786107778091
+Regressao Logistica,24,balanced_accuracy,0.7655290327338562
+Regressao Logistica,25,balanced_accuracy,0.7813331225679404
+Regressao Logistica,26,balanced_accuracy,0.7845598934049274
+Regressao Logistica,27,balanced_accuracy,0.7696792850449441
+Regressao Logistica,28,balanced_accuracy,0.7555546230122259
+Regressao Logistica,29,balanced_accuracy,0.762779237701401
+Regressao Logistica,30,balanced_accuracy,0.7710420775805391
+Regressao Logistica,31,balanced_accuracy,0.7875276247910495
+Regressao Logistica,32,balanced_accuracy,0.7500216658110851
+Regressao Logistica,33,balanced_accuracy,0.7822696710822252
+Regressao Logistica,34,balanced_accuracy,0.7687077918211569
+Regressao Logistica,35,balanced_accuracy,0.7601867908295034
+Regressao Logistica,36,balanced_accuracy,0.784288001493635
+Regressao Logistica,37,balanced_accuracy,0.7713793299481623
+Regressao Logistica,38,balanced_accuracy,0.7751683056841955
+Regressao Logistica,39,balanced_accuracy,0.7716802665592821
+Regressao Logistica,40,balanced_accuracy,0.771189747050071
+Regressao Logistica,41,balanced_accuracy,0.7801024142188742
+Regressao Logistica,42,balanced_accuracy,0.7626606712540048
+Regressao Logistica,43,balanced_accuracy,0.7692223938601079
+Regressao Logistica,44,balanced_accuracy,0.7668691843254563
+Regressao Logistica,45,balanced_accuracy,0.7633393928383807
+Regressao Logistica,46,balanced_accuracy,0.7663686317936921
+Regressao Logistica,47,balanced_accuracy,0.7836043656243479
+Regressao Logistica,48,balanced_accuracy,0.775829831547068
+Regressao Logistica,49,balanced_accuracy,0.7641976548152832
+Regressao Logistica,0,precision_macro,0.7745500391828408
+Regressao Logistica,1,precision_macro,0.7665338274170534
+Regressao Logistica,2,precision_macro,0.766839449907926
+Regressao Logistica,3,precision_macro,0.7744032214259547
+Regressao Logistica,4,precision_macro,0.7847355094630348
+Regressao Logistica,5,precision_macro,0.7882958736414098
+Regressao Logistica,6,precision_macro,0.7849675544642227
+Regressao Logistica,7,precision_macro,0.7666019683244796
+Regressao Logistica,8,precision_macro,0.7730020478722867
+Regressao Logistica,9,precision_macro,0.770883058555054
+Regressao Logistica,10,precision_macro,0.7839031327500924
+Regressao Logistica,11,precision_macro,0.780939750468059
+Regressao Logistica,12,precision_macro,0.7786603056554429
+Regressao Logistica,13,precision_macro,0.7596458264972088
+Regressao Logistica,14,precision_macro,0.77477276065048
+Regressao Logistica,15,precision_macro,0.7647588899825558
+Regressao Logistica,16,precision_macro,0.7867906762162747
+Regressao Logistica,17,precision_macro,0.7797708622729846
+Regressao Logistica,18,precision_macro,0.7764423841231984
+Regressao Logistica,19,precision_macro,0.773808408969459
+Regressao Logistica,20,precision_macro,0.7676679283374779
+Regressao Logistica,21,precision_macro,0.7884256199407481
+Regressao Logistica,22,precision_macro,0.7774942393267
+Regressao Logistica,23,precision_macro,0.7789633784966747
+Regressao Logistica,24,precision_macro,0.7680442818558987
+Regressao Logistica,25,precision_macro,0.7836081202504505
+Regressao Logistica,26,precision_macro,0.7888292713740479
+Regressao Logistica,27,precision_macro,0.7735295874672631
+Regressao Logistica,28,precision_macro,0.7595692898431752
+Regressao Logistica,29,precision_macro,0.7653303663319484
+Regressao Logistica,30,precision_macro,0.7751313610212833
+Regressao Logistica,31,precision_macro,0.7830722166889708
+Regressao Logistica,32,precision_macro,0.7617782069709711
+Regressao Logistica,33,precision_macro,0.7885800082601602
+Regressao Logistica,34,precision_macro,0.7748162181215728
+Regressao Logistica,35,precision_macro,0.7604505441587388
+Regressao Logistica,36,precision_macro,0.7874253339797663
+Regressao Logistica,37,precision_macro,0.7810625980291053
+Regressao Logistica,38,precision_macro,0.7772881373232885
+Regressao Logistica,39,precision_macro,0.7734964736768924
+Regressao Logistica,40,precision_macro,0.7730419747370249
+Regressao Logistica,41,precision_macro,0.7859547643052611
+Regressao Logistica,42,precision_macro,0.7631955104958963
+Regressao Logistica,43,precision_macro,0.7720601312214689
+Regressao Logistica,44,precision_macro,0.7748977601082183
+Regressao Logistica,45,precision_macro,0.7669697982256893
+Regressao Logistica,46,precision_macro,0.77415797515872
+Regressao Logistica,47,precision_macro,0.7897454941572589
+Regressao Logistica,48,precision_macro,0.7783113319016262
+Regressao Logistica,49,precision_macro,0.7621615775232851
+Regressao Logistica,0,recall_macro,0.773629167728358
+Regressao Logistica,1,recall_macro,0.7684732618524398
+Regressao Logistica,2,recall_macro,0.7657843832547677
+Regressao Logistica,3,recall_macro,0.7670134786587031
+Regressao Logistica,4,recall_macro,0.7750713078109772
+Regressao Logistica,5,recall_macro,0.7816628524422047
+Regressao Logistica,6,recall_macro,0.7882587883466359
+Regressao Logistica,7,recall_macro,0.7659599385752197
+Regressao Logistica,8,recall_macro,0.7624694161839451
+Regressao Logistica,9,recall_macro,0.7672524250634671
+Regressao Logistica,10,recall_macro,0.7768289992733313
+Regressao Logistica,11,recall_macro,0.7798600137735067
+Regressao Logistica,12,recall_macro,0.7732468443457825
+Regressao Logistica,13,recall_macro,0.7580915595998661
+Regressao Logistica,14,recall_macro,0.770524598802307
+Regressao Logistica,15,recall_macro,0.7668562218258574
+Regressao Logistica,16,recall_macro,0.7787407459445176
+Regressao Logistica,17,recall_macro,0.7736434384604182
+Regressao Logistica,18,recall_macro,0.7763958629835481
+Regressao Logistica,19,recall_macro,0.7668705677793204
+Regressao Logistica,20,recall_macro,0.7621658149542765
+Regressao Logistica,21,recall_macro,0.7839494020649082
+Regressao Logistica,22,recall_macro,0.7715008095276003
+Regressao Logistica,23,recall_macro,0.7771786107778091
+Regressao Logistica,24,recall_macro,0.7655290327338562
+Regressao Logistica,25,recall_macro,0.7813331225679404
+Regressao Logistica,26,recall_macro,0.7845598934049274
+Regressao Logistica,27,recall_macro,0.7696792850449441
+Regressao Logistica,28,recall_macro,0.7555546230122259
+Regressao Logistica,29,recall_macro,0.762779237701401
+Regressao Logistica,30,recall_macro,0.7710420775805391
+Regressao Logistica,31,recall_macro,0.7875276247910495
+Regressao Logistica,32,recall_macro,0.7500216658110851
+Regressao Logistica,33,recall_macro,0.7822696710822252
+Regressao Logistica,34,recall_macro,0.7687077918211569
+Regressao Logistica,35,recall_macro,0.7601867908295034
+Regressao Logistica,36,recall_macro,0.784288001493635
+Regressao Logistica,37,recall_macro,0.7713793299481623
+Regressao Logistica,38,recall_macro,0.7751683056841955
+Regressao Logistica,39,recall_macro,0.7716802665592821
+Regressao Logistica,40,recall_macro,0.771189747050071
+Regressao Logistica,41,recall_macro,0.7801024142188742
+Regressao Logistica,42,recall_macro,0.7626606712540048
+Regressao Logistica,43,recall_macro,0.7692223938601079
+Regressao Logistica,44,recall_macro,0.7668691843254563
+Regressao Logistica,45,recall_macro,0.7633393928383807
+Regressao Logistica,46,recall_macro,0.7663686317936921
+Regressao Logistica,47,recall_macro,0.7836043656243479
+Regressao Logistica,48,recall_macro,0.775829831547068
+Regressao Logistica,49,recall_macro,0.7641976548152832
