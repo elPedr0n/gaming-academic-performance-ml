@@ -14,7 +14,7 @@ from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from sklearn.feature_selection import mutual_info_classif
 from sklearn.preprocessing import StandardScaler
 
-SEED = 42
+SEED = 6767
 RAIZ = Path(__file__).resolve().parent.parent
 FIGS = RAIZ / 'eda' / 'figs'
 FIGS.mkdir(parents=True, exist_ok=True)
